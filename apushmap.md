@@ -1,0 +1,3373 @@
+# The APUSH(er)
+
+---
+
+## Exam Format
+- **Section 1A: Multiple Choice**
+  - **Who:** AP exam designers; collegeboard
+  - **What:** 55 questions in 55 minutes; counts for 40% of the exam score.
+  - **When:** Administered during the AP U.S. History Exam.
+  - **Where:** On exam day, in a formal testing environment.
+  - **Why:** To assess a broad range of historical knowledge and analytical skills.
+  - **Significance:** Forms the foundation of the overall exam performance.
+  - **Additional Details:**
+    - Questions often appear in sets of 3–4.
+    - Includes analysis of texts, images, graphs, and maps.
+- **Section 1B: Short Answer**
+  - **Who:** AP exam creators.
+  - **What:** 3 questions in 40 minutes; 20% of the exam score.
+  - **When:** On the same exam day.
+  - **Where:** Within the exam booklet.
+  - **Why:** To allow students to demonstrate analytical and interpretive skills.
+  - **Significance:** Tests the ability to quickly synthesize historical evidence.
+  - **Additional Details:**
+    - Some questions include secondary sources, primary sources, images, or maps.
+    - One of the questions requires choosing between two options focusing on different time periods.
+- **Section 2A: Document-Based Question (DBQ)**
+  - **Who:** AP exam designers.
+  - **What:** 1 question with 7 documents; lasts 1 hour (including a 15-minute reading period); 25% of exam score.
+  - **When:** On the exam day.
+  - **Where:** In the exam setting.
+  - **Why:** To assess skills in analyzing historical documents.
+  - **Significance:** Central to demonstrating the ability to construct an evidence-based argument.
+- **Section 2B: Long Essay (LEQ)**
+  - **Who:** AP exam creators.
+  - **What:** 1 essay question in 40 minutes; 15% of the exam score.
+  - **When:** On exam day.
+  - **Where:** In the exam booklet.
+  - **Why:** To evaluate analytical writing and argumentation skills.
+  - **Significance:** Requires synthesis of historical knowledge and evidence.
+  - **Additional Details:**
+    - Essay choices focus on similar skills (comparison, causation, continuity/change).
+    - Options span different historical periods (1491–1800; 1800–1898; 1890–2001).
+
+---
+
+## Unit 1 (1491–1607): The Beginning
+### Chapter 1: The Beginning
+- **Americas Before Whites**
+  - **Who:** Native peoples (e.g., Mayas, Aztecs, Incas)
+  - **What:** Indigenous civilizations thriving long before European contact.
+  - **When:** Approximately 10,000 years before Columbus.
+  - **Where:** Mesoamerica, Andean regions, and various parts of North America.
+  - **Why:** Developed complex societies independently.
+  - **Significance:** Foundation of American cultural and historical diversity.
+- **US Natives**
+  - **Who:** Nomadic and sedentary tribes (e.g., Lakota Sioux)
+  - **What:** Diverse groups with varying lifestyles (hunting, farming).
+  - **When:** Pre-Columbian period.
+  - **Where:** Throughout the present-day United States.
+  - **Why:** Adaptation to diverse environments.
+  - **Significance:** Their cultures and societies set the stage for later conflicts and exchanges.
+- **Europeans**
+  - **Who:** Explorers and settlers from European nations.
+  - **What:** Motivated by the Nautical Revolution, technological advances, religious spread, and trade.
+  - **When:** Late 15th century onward.
+  - **Where:** Primarily from Western and Northern Europe.
+  - **Why:** Desire for new trade routes, wealth, and religious influence.
+  - **Significance:** Their arrival initiated profound global changes.
+  - **Reasons for Leaving:**
+    - **Nautical Revolution & Technological Improvements**
+      - **Who:** European navigators and inventors.
+      - **What:** Inventions such as the compass, advanced shipbuilding, and the printing press.
+      - **When:** During the European Renaissance.
+      - **Where:** Europe.
+      - **Why:** To enhance maritime exploration.
+      - **Significance:** Enabled long-distance sea travel.
+    - **Religious Motivations**
+      - **Who:** Protestants (e.g., English) vs. Catholics (e.g., Spanish, Portuguese)
+      - **What:** Religious conflicts and the spread of Christianity.
+      - **When:** 15th–16th centuries.
+      - **Where:** Across Europe and the Americas.
+      - **Why:** Desire to escape religious persecution and spread faith.
+      - **Significance:** Influenced colonization patterns.
+    - **Trade and Economic Interests**
+      - **Who:** European monarchs and merchant companies.
+      - **What:** Search for new trade routes, especially after the Ottoman blockade of the Silk Road.
+      - **When:** Late 15th century.
+      - **Where:** Europe to Asia and the Americas.
+      - **Why:** Economic expansion and wealth accumulation.
+      - **Significance:** Led to the establishment of colonial empires.
+- **Columbus**
+  - **Who:** Christopher Columbus
+  - **What:** Explorer who “discovered” the New World for Europe.
+  - **When:** 1492.
+  - **Where:** Landings in the Bahamas and the Caribbean.
+  - **Why:** Sought a new route to Asia.
+  - **Significance:** Sparked the Columbian Exchange and widespread colonization.
+- **Columbian Exchange**
+  - **Who:** Europeans and Native Americans.
+  - **What:** The exchange of crops, animals, technologies, and diseases between the Old and New Worlds.
+  - **When:** Began after 1492.
+  - **Where:** Across the Atlantic.
+  - **Why:** Result of European exploration and colonization.
+  - **Significance:** Profoundly altered global populations, economies, and ecologies.
+  - **Items Exchanged:**
+    - **For Natives:** Livestock, plants, steel, guns, the wheel, and disease.
+    - **For Europeans:** Tobacco, potatoes, corn, beans, and new diseases (e.g., syphilis).
+- **Colonies**
+  - **Spanish & Portuguese Colonies**
+    - **Who:** Conquistadors and colonizers.
+    - **What:** Establishment of colonies through conquest and systems like the Encomienda.
+    - **When:** 16th century.
+    - **Where:** Latin America, Caribbean, and parts of the present-day US.
+    - **Why:** To extract wealth and spread Catholicism.
+    - **Significance:** Created a legacy of conquest, cultural exchange, and exploitation.
+    - **Systems and Policies:**
+      - **Encomienda System**
+        - **Who:** Spanish settlers and the indigenous population.
+        - **What:** A labor system granting colonists authority over Native labor.
+        - **When:** 16th century.
+        - **Where:** Spanish colonies.
+        - **Why:** To facilitate agriculture and wealth extraction.
+        - **Significance:** Led to severe Native exploitation.
+      - **Asiento System**
+        - **Who:** Spanish authorities.
+        - **What:** Authorized importation of West African slaves after Native populations declined.
+        - **When:** Later in the colonial period.
+        - **Where:** Spanish colonies.
+        - **Why:** To replace labor lost from indigenous depopulation.
+        - **Significance:** Began the transformation into a slave-based economy.
+  - **English Colonies**
+    - **Who:** English explorers and settlers.
+    - **What:** Colonization efforts marked by varied motives including economic opportunity and religious freedom.
+    - **When:** Early 17th century.
+    - **Where:** Eastern seaboard of what is now the United States.
+    - **Why:** To escape economic hardship and religious persecution.
+    - **Significance:** Laid the groundwork for the future United States.
+    - **Key Settlements:**
+      - **Jamestown**
+        - **Who:** Settlers of the Virginia Company (including John Smith and John Rolfe)
+        - **What:** The first permanent English settlement.
+        - **When:** 1607.
+        - **Where:** Virginia.
+        - **Why:** Pursuit of wealth and territorial claim.
+        - **Significance:** Sparked further English colonization.
+        - **Additional Notes:**
+          - Early hardships: Disease, poor conditions, swampy terrain.
+          - Transition to royal colony in 1624 due to debt and mismanagement.
+      - **Plymouth & Massachusetts Bay**
+        - **Who:** Pilgrims and Puritans (e.g., John Winthrop)
+        - **What:** Settlements founded for religious refuge.
+        - **When:** Early 17th century (Plymouth in 1620; Mass Bay soon after).
+        - **Where:** New England.
+        - **Why:** Escape from religious persecution by the Anglican Church.
+        - **Significance:** Contributed to the development of self-governance and democratic ideals.
+- **Bartolomé de Las Casas**
+  - **Who:** Spanish priest and historian.
+  - **What:** Advocate against the enslavement and harsh treatment of Native Americans.
+  - **When:** 16th century.
+  - **Where:** Spanish colonies.
+  - **Why:** Witnessed and reported brutalities of the encomienda system.
+  - **Significance:** Early voice for human rights and reform in colonial policies.
+
+## Unit 2 (1607–1754): Colonization and Early Society
+### Chapter 2: The 13 Colonies
+- **English Colonies**
+  - **Jamestown**
+    - **Who:** Virginia Company settlers (notables: John Smith, John Rolfe)
+    - **What:** First enduring English settlement.
+    - **When:** 1607.
+    - **Where:** Virginia.
+    - **Why:** Economic ambitions and expansion.
+    - **Significance:** Initiated English colonial presence in North America.
+    - **Early Life and Development:**
+      - Miserable living conditions, disease, swampy land.
+      - Transition from a corporate colony to a royal colony in 1624.
+      - Introduction of tobacco as a cash crop.
+  - **Plymouth & Massachusetts Bay**
+    - **Who:** Pilgrims and Puritans.
+    - **What:** Settlements formed primarily for religious reasons.
+    - **When:** Early 17th century.
+    - **Where:** New England.
+    - **Why:** To escape religious persecution.
+    - **Significance:** Basis for self-government and democratic ideals.
+    - **Religious and Political Foundations:**
+      - Mayflower Compact: Early social contract emphasizing majority rule.
+      - Great Migration: Mass movement of Puritans under leaders like John Winthrop.
+- **Early Politics in the Colonies**
+  - **House of Burgesses**
+    - **Who:** Virginia colonists.
+    - **What:** The first representative legislative assembly.
+    - **When:** Early 17th century.
+    - **Where:** Virginia.
+    - **Why:** Desire for self-rule and representation.
+    - **Significance:** Prototype for American democratic government.
+  - **Mayflower Compact**
+    - **Who:** Pilgrims aboard the Mayflower.
+    - **What:** An early agreement establishing a form of self-government.
+    - **When:** 1620.
+    - **Where:** Plymouth Colony.
+    - **Why:** To maintain order and collective decision-making.
+    - **Significance:** Early foundation for democratic governance in America.
+- **Chesapeake Colonies**
+  - **Maryland**
+    - **Who:** Founded under Lord Baltimore.
+    - **What:** A proprietary colony emphasizing religious tolerance initially.
+    - **When:** Early 17th century.
+    - **Where:** Chesapeake region.
+    - **Why:** To provide refuge for Catholics and balance Protestant influence.
+    - **Significance:** Example of early religious conflict and compromise.
+    - **Political and Religious Dynamics:**
+      - Act of Toleration: Granted religious freedom to Christians.
+      - Protestant Revolt: Overthrow of toleration policies leading to loss of Catholic voting rights.
+- **Labor Systems**
+  - **Indentured Servitude**
+    - **Who:** Young immigrants and laborers.
+    - **What:** Contractual labor for a fixed period in exchange for passage.
+    - **When:** Early colonial period.
+    - **Where:** Virginia, Maryland, and other colonies.
+    - **Why:** To address labor shortages.
+    - **Significance:** Paved the way for later reliance on slave labor.
+    - **Headright System:**
+      - Grants of land (50 acres per immigrant/servant) to incentivize migration.
+      - Impact on wealth inequality and land concentration.
+  - **Slavery**
+    - **Who:** Enslaved Africans and colonial slaveholders.
+    - **What:** Forced labor system institutionalized over time.
+    - **When:** Introduced in 1619; solidified by the 1660s.
+    - **Where:** Across the colonies.
+    - **Why:** To supply cheap labor for cash crops.
+    - **Significance:** Foundation of a racialized system that would shape American society.
+- **Bacon’s Rebellion**
+  - **Who:** Nathaniel Bacon and discontented frontier farmers.
+  - **What:** Armed uprising against Governor William Berkeley.
+  - **When:** 1676.
+  - **Where:** Virginia.
+  - **Why:** Response to inadequate protection from Native attacks and economic disparities.
+  - **Significance:** Exposed class tensions and spurred changes in labor systems.
+- **New England Colonies**
+  - **Rhode Island and Dissenters**
+    - **Who:** Roger Williams and Anne Hutchinson.
+    - **What:** Foundations of colonies emphasizing religious freedom.
+    - **When:** 1630s.
+    - **Where:** New England.
+    - **Why:** To escape Puritan orthodoxy.
+    - **Significance:** Early experiments in separation of church and state.
+  - **Connecticut & New Hampshire**
+    - **Who:** Settlers in these royal colonies.
+    - **What:** Established limited representative governments.
+    - **When:** 17th century.
+    - **Where:** New England.
+    - **Why:** To balance royal authority with local governance.
+    - **Significance:** Contributed to the tradition of self-government.
+- **Other Colonies**
+  - **Carolinas**
+    - **Who:** Southern settlers.
+    - **What:** Colonies with economies based on tobacco, rice, and later slavery.
+    - **When:** 17th century onward.
+    - **Where:** Southeastern America.
+    - **Why:** Economic opportunity and agricultural potential.
+    - **Significance:** Formation of a plantation economy.
+  - **Pennsylvania**
+    - **Who:** Founded by William Penn and Quakers.
+    - **What:** Colony emphasizing religious freedom and representative government.
+    - **When:** 1681.
+    - **Where:** Mid-Atlantic region.
+    - **Why:** To provide a haven for persecuted Quakers.
+    - **Significance:** Model of tolerance and democratic governance.
+  - **Georgia**
+    - **Who:** Established by British authorities.
+    - **What:** Colony created as a buffer against Spanish Florida and a social experiment for debtor relief.
+    - **When:** 1732.
+    - **Where:** Southeastern America.
+    - **Why:** Strategic defense and social reform.
+    - **Significance:** Last of the 13 colonies, highlighting varied colonial purposes.
+- **Mercantilism & Navigation Acts**
+  - **Mercantilism**
+    - **Who:** European monarchies.
+    - **What:** Economic doctrine using colonies as sources of raw materials.
+    - **When:** 16th–18th centuries.
+    - **Where:** Europe and its colonies.
+    - **Why:** To enrich the mother country.
+    - **Significance:** Shaped colonial trade and economic policies.
+  - **Navigation Acts**
+    - **Who:** British Parliament.
+    - **What:** Laws restricting colonial trade to benefit England.
+    - **When:** Mid-17th century onward.
+    - **Where:** British colonies.
+    - **Why:** To control trade and ensure national wealth.
+    - **Significance:** Led to colonial resentment and smuggling.
+- **Dominion of New England**
+  - **Who:** Imposed by King James II and administered by Sir Edmund Andros.
+  - **What:** Consolidation of several New England colonies under royal control.
+  - **When:** Late 17th century.
+  - **Where:** New England.
+  - **Why:** To enforce stricter control and reduce smuggling.
+  - **Significance:** Early example of colonial resistance to centralized power.
+## Unit 3 (1754–1800): Imperial Wars, Revolution, and the Constitution
+### Chapter 4: Imperial Wars & Colonial Protests
+- **Seven Years' War (French & Indian War)**
+  - **Who:** British, French, and Native American allies
+  - **What:** A global conflict with major colonial battles in North America
+  - **When:** 1754–1763
+  - **Where:** North America (Ohio River Valley, Canada) and Europe
+  - **Why:** Struggle for colonial dominance amid European rivalry
+  - **Significance:** Reshaped colonial power dynamics; set the stage for future colonial unrest
+    - **Beginning of War**
+      - **Who:** French forces establishing forts; British colonial troops led by figures like George Washington and General Braddock
+      - **What:** Military engagements over territorial expansion
+      - **When:** Mid-18th century
+      - **Where:** Ohio River Valley and adjacent regions
+      - **Why:** French efforts to block British expansion
+      - **Significance:** Initiated armed conflict that would later influence colonial unity
+    - **Albany Plan of Union**
+      - **Who:** Proposed by Benjamin Franklin
+      - **What:** Plan to unite the colonies for collective taxation, defense, and troop mobilization
+      - **When:** During the war period
+      - **Where:** Albany, New York
+      - **Why:** To coordinate colonial military efforts and resources
+      - **Significance:** Early attempt at colonial unity despite its ultimate failure
+    - **Effects of War**
+      - **Treaty of Paris (1763)**
+        - **Who:** Britain and France
+        - **What:** Treaty ending the war; reassigning territories in North America
+        - **When:** 1763
+        - **Where:** Europe and North America
+        - **Why:** To resolve territorial disputes following military engagements
+        - **Significance:** Cemented British supremacy in North America; altered colonial perceptions of British power
+      - **Immediate Colonial Impacts**
+        - **British View:** Criticism of colonial military inefficiency and disorganization
+        - **Colonial View:** Pride and increased self-confidence in defending their lands
+
+- **Shift in British Policy**
+  - **End of Salutary Neglect**
+    - **Who:** British government
+    - **What:** Abrupt enforcement of trade laws and tighter control over colonial affairs
+    - **When:** Post-war period
+    - **Where:** British North America
+    - **Why:** To recoup war expenses and reassert imperial authority
+    - **Significance:** Sparked growing colonial resentment and a desire for self-governance
+  - **Pontiac’s Rebellion (1763)**
+    - **Who:** Native American leader Pontiac and his coalition
+    - **What:** Uprising against British expansion into Native lands
+    - **When:** 1763
+    - **Where:** Great Lakes region and Ohio Valley
+    - **Why:** In response to encroachment and British military policies
+    - **Significance:** Led to the issuance of the Proclamation of 1763, deepening colonial dissatisfaction
+  - **Proclamation of 1763**
+    - **Who:** British Crown
+    - **What:** Declaration prohibiting colonial settlement west of the Appalachians
+    - **When:** 1763
+    - **Where:** North America
+    - **Why:** To stabilize relations with Native Americans and control westward expansion
+    - **Significance:** Provoked colonial anger and contributed to the call for independence
+
+- **British Taxes and Colonial Reaction**
+  - **Sugar Act (1764)**
+    - **Who:** British Parliament
+    - **What:** Imposed tax on sugar and molasses
+    - **When:** 1764
+    - **Where:** American colonies
+    - **Why:** To raise revenue and curb smuggling practices
+    - **Significance:** One of the first direct taxes affecting colonists; a precursor to widespread protest
+  - **Quartering Act (1765)**
+    - **Who:** British authorities
+    - **What:** Required colonists to house and supply British troops
+    - **When:** 1765
+    - **Where:** Colonies
+    - **Why:** To support the military presence in America
+    - **Significance:** Intensified colonial discontent over British impositions
+  - **Stamp Act (1765)**
+    - **Who:** British Parliament and colonial protest groups (e.g., Stamp Act Congress, Sons & Daughters of Liberty)
+    - **What:** Tax on legal documents, newspapers, and other printed materials
+    - **When:** 1765
+    - **Where:** Across the colonies
+    - **Why:** To generate revenue directly from the colonists
+    - **Significance:** Sparked the rallying cry "no taxation without representation"
+      - **Stamp Act Congress**
+        - **Who:** Delegates from nine colonies
+        - **What:** A meeting to protest the Stamp Act and demand representation
+        - **When:** 1765–1766
+        - **Where:** Philadelphia
+        - **Why:** To collectively resist direct taxation
+        - **Significance:** Early sign of colonial unity and resistance
+      - **Sons & Daughters of Liberty**
+        - **Who:** Radical protest groups in the colonies
+        - **What:** Organized demonstrations and harassment of tax collectors
+        - **When:** 1765–1766
+        - **Where:** Colonial towns and cities
+        - **Why:** To oppose the perceived tyranny of direct taxation
+        - **Significance:** Contributed to the eventual repeal of the Stamp Act
+      - **Repeal and Declaratory Act (1766)**
+        - **Who:** British Parliament
+        - **What:** Repealed the Stamp Act while asserting the right to tax the colonies in all cases
+        - **When:** 1766
+        - **Where:** Colonies
+        - **Why:** To appease colonial protest while maintaining imperial authority
+        - **Significance:** Demonstrated the conflicting interests between Britain and its colonies
+  - **Townshend Acts (1767–1773)**
+    - **Who:** British government
+    - **What:** Imposed duties on various imports such as tea, glass, and paper
+    - **When:** 1767–1773
+    - **Where:** Colonies
+    - **Why:** To raise revenue and assert control over colonial trade
+    - **Significance:** Heightened tensions leading to increased boycotts and protests
+      - **John Dickinson’s Letters from a Farmer**
+        - **Who:** John Dickinson
+        - **What:** Writings that argued against taxation without representation
+        - **When:** During the implementation of the Townshend Acts
+        - **Where:** Circulated in colonial print
+        - **Why:** To articulate colonial grievances and rally support
+        - **Significance:** Influenced public opinion against British policies
+      - **Circular Letter**
+        - **Who:** James Otis and Samuel Adams
+        - **What:** Letter urging legislative bodies to oppose the Townshend Acts
+        - **When:** Late 1760s
+        - **Where:** Throughout the colonies
+        - **Why:** To foster collective resistance
+        - **Significance:** Cemented colonial resolve against British taxation
+  - **Boston Massacre (1770)**
+    - **Who:** British soldiers and colonial civilians
+    - **What:** Confrontation resulting in the deaths of several colonists
+    - **When:** 1770
+    - **Where:** Boston, Massachusetts
+    - **Why:** Result of escalating tensions over military presence and taxation
+    - **Significance:** Became a symbol of British oppression and fueled revolutionary sentiment
+  - **Boston Tea Party (1773)**
+    - **Who:** Colonists (organized by groups like the Sons of Liberty)
+    - **What:** Protest action dumping British tea into Boston Harbor
+    - **When:** 1773
+    - **Where:** Boston Harbor
+    - **Why:** To oppose the Tea Act and unfair taxation
+    - **Significance:** Escalated hostilities and led directly to the Intolerable Acts
+  - **Intolerable Acts (Coercive Acts) (1774)**
+    - **Who:** British Parliament and colonial populations
+    - **What:** Series of punitive laws including closing Boston Harbor and restricting self-government
+    - **When:** 1774
+    - **Where:** Particularly in New England
+    - **Why:** To punish Massachusetts for the Boston Tea Party
+    - **Significance:** Unified the colonies in their opposition to British tyranny
+
+- **Influence of Enlightenment Ideas**
+  - **Who:** Enlightenment philosophers such as John Locke
+  - **What:** Ideals emphasizing natural rights, consent of the governed, and individual liberty
+  - **When:** 17th–18th centuries
+  - **Where:** Europe, influencing colonial political thought
+  - **Why:** Provided an intellectual framework for challenging traditional authority
+  - **Significance:** Underpinned revolutionary rhetoric and later constitutional principles
+
+### Chapter 5: American Revolution
+- **Intolerable Acts Impact**
+  - **Who:** American colonists
+  - **What:** A series of oppressive laws that intensified calls for independence
+  - **When:** 1774 onward
+  - **Where:** Particularly in New England
+  - **Why:** Viewed as direct assaults on colonial rights and self-governance
+  - **Significance:** Catalyzed the revolutionary movement
+- **First Continental Congress**
+  - **Who:** Delegates from 12 colonies (all except Georgia)
+  - **What:** A meeting to coordinate resistance against British policies
+  - **When:** 1774
+  - **Where:** Philadelphia
+  - **Why:** To establish a unified colonial response and articulate grievances
+  - **Significance:** Marked the first collective action towards independence
+    - **Actions Taken**
+      - Proposals to repeal the Intolerable Acts
+      - Adoption of the Suffolk Resolves
+      - Formation of the Continental Association for economic sanctions
+- **Fighting Begins**
+  - **Lexington & Concord**
+    - **Who:** British troops versus colonial Minutemen (notables include Paul Revere and William Dawes)
+    - **What:** The first military clashes of the Revolutionary War
+    - **When:** 1775
+    - **Where:** Massachusetts
+    - **Why:** Conflict over British attempts to seize colonial armaments
+    - **Significance:** Known as "the shot heard 'round the world," igniting armed conflict
+  - **Bunker Hill**
+    - **Who:** Colonial forces versus British troops
+    - **What:** A significant early battle demonstrating colonial determination
+    - **When:** 1775
+    - **Where:** Near Boston, Massachusetts
+    - **Why:** Part of the struggle for colonial self-determination
+    - **Significance:** Boosted colonial morale despite heavy British casualties
+- **Second Continental Congress**
+  - **Who:** Delegates from all colonies
+  - **What:** A subsequent assembly that steered the colonies toward full independence
+  - **When:** 1775 onward
+  - **Where:** Philadelphia
+  - **Why:** To manage the war effort and consolidate revolutionary aims
+  - **Significance:** Laid the groundwork for declaring independence
+    - **Olive Branch Petition**
+      - **Who:** Members of the Continental Congress
+      - **What:** A final appeal for reconciliation with Britain
+      - **When:** 1775–1776
+      - **Where:** Philadelphia
+      - **Why:** To preserve colonial rights while seeking compromise
+      - **Significance:** Its rejection pushed the colonies irreversibly toward revolution
+- **Thomas Paine’s Common Sense**
+  - **Who:** Thomas Paine
+  - **What:** Influential pamphlet arguing for complete independence from Britain
+  - **When:** 1776
+  - **Where:** Widely distributed among the colonies
+  - **Why:** To simplify complex political ideas and galvanize public support
+  - **Significance:** Shifted public opinion decisively toward the revolutionary cause
+- **Declaration of Independence**
+  - **Who:** Primarily drafted by Thomas Jefferson and adopted by the Continental Congress
+  - **What:** Document listing colonial grievances and proclaiming independence
+  - **When:** 1776
+  - **Where:** Philadelphia, Pennsylvania
+  - **Why:** To formally sever political ties with Britain
+  - **Significance:** Established the foundational principles of the new nation, including the assertion that "all men are created equal"
+- **Revolutionary War**
+  - **Who:** Patriots (pro-independence colonists), Tories (loyalists), African Americans, and foreign allies (notably the French)
+  - **What:** A protracted military conflict to secure American independence
+  - **When:** 1775–1783
+  - **Where:** Primarily across North America
+  - **Why:** To gain self-governance and resist British imperial control
+  - **Significance:** Resulted in the creation of an independent United States
+    - **Patriots**
+      - **Who:** Colonial revolutionaries led by figures like George Washington
+      - **What:** Organized military and political resistance against British rule
+      - **When:** Throughout the war
+      - **Where:** Various battlefronts across the colonies
+      - **Why:** Motivated by ideals of liberty and self-determination
+      - **Significance:** Ultimately secured victory and independence
+    - **African Americans**
+      - **Who:** Enslaved and free African Americans
+      - **What:** Participated in the conflict, sometimes with promises of emancipation
+      - **When:** During the Revolutionary War
+      - **Where:** Across American battlefields
+      - **Why:** Sought freedom and better prospects despite pervasive inequality
+      - **Significance:** Their involvement highlighted the paradox of fighting for liberty while slavery persisted
+    - **Tories (Loyalists)**
+      - **Who:** Colonists who remained loyal to the British Crown
+      - **What:** Actively opposed the revolutionary movement
+      - **When:** During the war
+      - **Where:** Concentrated in regions like New York, New Jersey, and Georgia
+      - **Why:** Often due to economic interests or ideological loyalty
+      - **Significance:** Their resistance underscored the internal divisions within colonial society
+    - **French Alliance**
+      - **Who:** The French government and military forces
+      - **What:** Provided critical support and military aid to the American revolutionaries
+      - **When:** From 1777 onward, notably after the victory at Saratoga
+      - **Where:** In both European and American theaters
+      - **Why:** To weaken Britain and expand French influence
+      - **Significance:** A turning point that contributed decisively to American victory
+    - **Key Battles**
+      - **Battle of Saratoga (1777)**
+        - **Who:** American forces versus British troops
+        - **What:** A pivotal American victory that convinced France to enter the war
+        - **When:** 1777
+        - **Where:** Saratoga, New York
+        - **Why:** Turned the tide of the war by securing international support
+        - **Significance:** Widely regarded as a turning point in the Revolutionary War
+      - **Yorktown (1781)**
+        - **Who:** American and French allied forces led by George Washington and French generals
+        - **What:** Decisive siege and surrender of British troops
+        - **When:** 1781
+        - **Where:** Yorktown, Virginia
+        - **Why:** To force a conclusive end to hostilities
+        - **Significance:** Marked the effective end of major combat operations
+  - **Treaty of Paris (1783)**
+    - **Who:** Negotiators from Britain and American representatives
+    - **What:** Treaty officially ending the Revolutionary War and recognizing American independence
+    - **When:** 1783
+    - **Where:** Paris, France
+    - **Why:** To formalize peace and establish boundaries
+    - **Significance:** Legitimized the United States as a sovereign nation
+
+- **New Government: Articles of Confederation**
+  - **Who:** The thirteen states under a unified, yet weak, federal system
+  - **What:** The first constitution of the United States, emphasizing state sovereignty
+  - **When:** Ratified in 1777 and in effect until replaced by the Constitution
+  - **Where:** Across the newly independent states
+  - **Why:** To provide a framework for national governance following independence
+  - **Significance:** Although it secured victory in the war, its weaknesses prompted calls for reform
+    - **Accomplishments**
+      - Winning the Revolutionary War
+      - Abolishing hereditary nobility
+      - Establishing separation of church and state
+      - **Land Ordinance of 1785:** Created policies for surveying and selling western lands
+      - **Northwest Ordinance of 1787:** Set guidelines for territorial expansion and prohibited slavery in certain regions
+    - **Problems**
+      - Weak central government with no taxing power
+      - Inability to enforce laws and maintain order
+      - **Shays Rebellion (1786–1787):**
+        - **Who:** Discontented farmers led by Daniel Shays
+        - **What:** An armed uprising against economic injustice and governmental weakness
+        - **When:** 1786–1787
+        - **Where:** Massachusetts
+        - **Why:** To protest high taxes, debt, and lack of financial support
+        - **Significance:** Highlighted the need for a stronger national government
+    - **Role of Women**
+      - **Who:** Women such as Abigail Adams and figures like Molly Pitcher
+      - **What:** Contributed to family and war efforts, managed farms and businesses, though politically marginalized
+      - **When:** During and immediately after the Revolutionary War
+      - **Where:** Across the colonies
+      - **Why:** Their indispensable roles in society underscored early calls for greater recognition
+      - **Significance:** Early influence on future women's rights movements
+
+### Chapter 6: Constitution & New Republic
+- **US under the Articles of Confederation**
+  - **Who:** The United States under its first governing framework
+  - **What:** A loose confederation of states with a weak central government
+  - **When:** Post-Revolution until 1789
+  - **Where:** Throughout the United States
+  - **Why:** An initial experiment in national governance that ultimately proved inadequate
+  - **Significance:** Set the stage for drafting a stronger constitution
+- **Annapolis Convention**
+  - **Who:** Delegates including James Madison and Alexander Hamilton
+  - **What:** A meeting calling for revisions to the Articles of Confederation
+  - **When:** 1786
+  - **Where:** Annapolis, Maryland
+  - **Why:** To address the weaknesses in national governance
+  - **Significance:** Paved the way for the Constitutional Convention
+- **Drafting of the Constitution**
+  - **Who:** Delegates in Philadelphia (notables: George Washington, Benjamin Franklin, James Madison, Alexander Hamilton, Gouverneur Morris, John Dickinson)
+  - **What:** Creation of a new framework for government
+  - **When:** 1787
+  - **Where:** Philadelphia, Pennsylvania
+  - **Why:** To remedy the failings of the Articles and establish a stronger union
+  - **Significance:** Laid the foundational structure for modern American government
+    - **Key Issues and Compromises**
+      - **Representation**
+        - **VA Plan (Large States)**
+          - **Who:** Advocated by figures like James Madison
+          - **What:** Proposed representation based on population
+          - **When:** During the convention
+          - **Where:** Philadelphia
+          - **Why:** To give larger states proportional influence
+          - **Significance:** Sparked debates that led to a bicameral legislature
+        - **NJ Plan (Small States)**
+          - **Who:** Advocates from smaller states
+          - **What:** Called for equal representation for each state
+          - **When:** During the convention
+          - **Where:** Philadelphia
+          - **Why:** To protect the interests of smaller states
+          - **Significance:** Helped shape the eventual compromise in Congress
+        - **Great Compromise (Connecticut Compromise)**
+          - **Who:** Proposed by Connecticut delegates
+          - **What:** Bicameral legislature with the House based on population and the Senate with equal representation
+          - **When:** 1787
+          - **Where:** Philadelphia
+          - **Why:** To resolve disputes between large and small states
+          - **Significance:** Established the framework for Congress still used today
+      - **Slavery**
+        - **Who:** Delegates from slaveholding and non-slaveholding states
+        - **What:** Heated debates over how slaves should be counted for representation and taxation
+        - **When:** 1787
+        - **Where:** Philadelphia
+        - **Why:** To balance power between Northern and Southern states
+        - **Significance:** Led to the Three-Fifths Compromise
+          - **Three-Fifths Compromise**
+            - **Who:** Constitutional delegates
+            - **What:** Agreement that three out of every five slaves would count for representation and taxation purposes
+            - **When:** 1787
+            - **Where:** Philadelphia
+            - **Why:** To reconcile differences between slaveholding and free states
+            - **Significance:** Highlighted the contentious issue of slavery in early American politics
+      - **Trade**
+        - **Who:** Northern and Southern delegates
+        - **What:** Disputes over federal versus state control of commerce
+        - **When:** During the convention
+        - **Where:** Philadelphia
+        - **Why:** To establish national economic policies
+        - **Significance:** Resulted in the Commerce Compromise
+      - **Presidency**
+        - **Who:** Constitutional drafters outlining executive power
+        - **What:** Creation of a presidential system with checks and balances
+        - **When:** 1787
+        - **Where:** Philadelphia
+        - **Why:** To provide strong leadership while limiting executive overreach
+        - **Significance:** Established the framework for the modern presidency (e.g., 4-year term, electoral college)
+  - **Ratification and Early Implementation**
+    - **Ratification**
+      - **Who:** The states
+      - **What:** Process of approving the new Constitution
+      - **When:** Ratified on September 17, 1787; implemented starting May 1790
+      - **Where:** Across the United States
+      - **Why:** To formalize a stronger system of government
+      - **Significance:** Began the era of constitutional government in America
+  - **Federalists vs. Anti-Federalists**
+    - **Federalists**
+      - **Who:** Advocates such as Washington, Franklin, Madison, Hamilton, and John Jay
+      - **What:** Supported a strong centralized federal government
+      - **When:** During and after the Constitutional Convention
+      - **Where:** Predominantly in Northern states
+      - **Why:** To ensure national stability and cohesive policy-making
+      - **Significance:** Their writings (e.g., the Federalist Papers) were critical in securing ratification
+    - **Anti-Federalists**
+      - **Who:** Figures like George Mason and proponents of states’ rights
+      - **What:** Opposed a strong central government without clear protections for individual liberties
+      - **When:** During ratification debates
+      - **Where:** Across various states
+      - **Why:** Concerned about potential governmental tyranny and loss of personal freedoms
+      - **Significance:** Their pressure led to the adoption of the Bill of Rights
+- **Washington’s Presidency**
+  - **Who:** George Washington
+  - **What:** First President, setting precedents for the executive branch
+  - **When:** 1789–1797
+  - **Where:** United States
+  - **Why:** To lead the new nation under the Constitution
+  - **Significance:** Established key practices like the Cabinet and the two-term limit
+    - **Cabinet Formation**
+      - **Who:** Appointees such as Thomas Jefferson (Secretary of State), Alexander Hamilton (Treasurer), Henry Knox, and Edmund Randolph
+      - **What:** Formed the first executive advisory body
+      - **When:** Early in Washington’s administration
+      - **Where:** Washington’s administration
+      - **Why:** To provide informed guidance on national policy
+      - **Significance:** Institutionalized executive support for future presidencies
+    - **Hamilton’s Financial Program**
+      - **Who:** Alexander Hamilton
+      - **What:** Plan to pay off national debt, support emerging industries with tariffs, and create a national bank
+      - **When:** Early Washington administration
+      - **Where:** Across the United States
+      - **Why:** To stabilize and stimulate the American economy
+      - **Significance:** Laid the groundwork for U.S. economic policy; ignited debates over constitutional interpretation
+      - **Opposition**
+        - **Who:** Thomas Jefferson and Anti-Federalists
+        - **What:** Criticized the national bank as unconstitutional and centralizing power
+        - **When:** Concurrent with Hamilton’s proposals
+        - **Where:** Political debates of the era
+        - **Why:** Advocated for a strict interpretation of the Constitution
+        - **Significance:** Set the stage for enduring debates over federal authority
+    - **Foreign Affairs**
+      - **Proclamation of Neutrality (1793)**
+        - **Who:** Washington’s administration
+        - **What:** Policy declaring neutrality in European conflicts
+        - **When:** 1793
+        - **Where:** U.S. foreign policy stance
+        - **Why:** To avoid entanglement in European wars
+        - **Significance:** Established a long-lasting principle of non-intervention
+      - **Jay Treaty (1794)**
+        - **Who:** Negotiated by John Jay
+        - **What:** Treaty with Britain addressing issues such as impressment and trade disputes
+        - **When:** 1794
+        - **Where:** Between the U.S. and Britain
+        - **Why:** To resolve lingering post-war conflicts
+        - **Significance:** Controversial but helped prevent further hostilities
+      - **Pinckney Treaty (1795)**
+        - **Who:** Negotiated by Thomas Pinckney
+        - **What:** Treaty with Spain granting navigation rights on the Mississippi and access to New Orleans
+        - **When:** 1795
+        - **Where:** U.S. and Spanish territories
+        - **Why:** To secure vital trade routes and territorial rights
+        - **Significance:** Facilitated westward expansion and commerce
+    - **Domestic Concerns**
+      - **Treaty of Greenville**
+        - **Who:** U.S. negotiators and Native American tribes
+        - **What:** Treaty opening up land in Ohio for settlement
+        - **When:** Post-War of 1812 era
+        - **Where:** Ohio region
+        - **Why:** To resolve territorial disputes and expand U.S. settlement
+        - **Significance:** Contributed to American westward expansion
+      - **Whiskey Rebellion (1794)**
+        - **Who:** Pennsylvania farmers versus the federal government
+        - **What:** Armed uprising against heavy taxes on whiskey
+        - **When:** 1794
+        - **Where:** Pennsylvania
+        - **Why:** Economic hardship and resistance to federal taxation
+        - **Significance:** Demonstrated the new government’s ability to enforce its laws
+      - **Farewell Address**
+        - **Who:** George Washington
+        - **What:** Final public address warning against political factionalism, foreign alliances, and sectionalism
+        - **When:** 1796
+        - **Where:** Delivered at the close of Washington’s presidency
+        - **Why:** To guide the nation’s future conduct
+        - **Significance:** Influenced American political norms and the tradition of a two-term presidency
+- **John Adams’ Presidency**
+  - **Who:** John Adams
+  - **What:** Second President; Federalist leader confronting domestic and foreign challenges
+  - **When:** 1797–1801
+  - **Where:** United States
+  - **Why:** To maintain Federalist control amid rising opposition
+  - **Significance:** His presidency marked growing partisan divides and set precedents for future political conflicts
+    - **XYZ Affair**
+      - **Who:** French officials (designated X, Y, Z) and American diplomats
+      - **What:** Diplomatic scandal involving bribery demands from French envoys
+      - **When:** 1797–1798
+      - **Where:** In negotiations between the U.S. and France
+      - **Why:** French interference in American diplomatic affairs
+      - **Significance:** Heightened anti-French sentiment and led to quasi-war preparations
+    - **Alien & Sedition Acts (1798)**
+      - **Who:** Federalist Congress under Adams
+      - **What:** Laws aimed at suppressing dissent and controlling immigrants deemed dangerous
+      - **When:** 1798
+      - **Where:** Across the United States
+      - **Why:** To maintain Federalist dominance and control public opinion
+      - **Significance:** Sparked fierce opposition and contributed to the rise of the Democratic-Republicans
+    - **KY & VA Resolutions**
+      - **Who:** State legislatures in Kentucky and Virginia (secretly authored by Jefferson and Madison)
+      - **What:** Resolutions declaring the Alien & Sedition Acts unconstitutional
+      - **When:** 1798–1799
+      - **Where:** In the respective states
+      - **Why:** To assert states’ rights and challenge federal overreach
+      - **Significance:** Early assertion of the principle that states could nullify federal laws
+- **Election of 1800**
+  - **Who:** American voters; key figures included Thomas Jefferson and Aaron Burr versus incumbent Federalists
+  - **What:** A contentious election that ended in a tie in the electoral college, decided in the House of Representatives
+  - **When:** 1800
+  - **Where:** United States
+  - **Why:** Marked a significant political realignment and the transfer of power from Federalists to Democratic-Republicans
+  - **Significance:** Known as the “Revolution of 1800,” it set a precedent for peaceful political transitions
+  ## Unit 4 (1800–1860): Jeffersonian Era to Antebellum Reform
+
+### Chapter 7: Jeffersonian Era
+- **Jefferson’s Presidency**
+  - **Who:** Thomas Jefferson, 3rd U.S. President
+  - **What:** Sought to unite Democratic-Republicans and moderate Federalists; aimed to limit federal power
+  - **When:** 1801–1809
+  - **Where:** United States
+  - **Why:** To promote agrarian ideals and decentralize government authority
+  - **Significance:** Laid the groundwork for American expansion and a more democratic political culture
+    - **Louisiana Purchase**
+      - **Who:** Jefferson and American negotiators
+      - **What:** Purchase of Louisiana territory from France
+      - **When:** 1803
+      - **Where:** Territory west of the Mississippi River
+      - **Why:** To secure American control of the Mississippi and enable westward expansion
+      - **Significance:** Doubled the size of the U.S., challenged strict constitutional interpretation
+    - **Impact on Constitutional Interpretation**
+      - **Who:** Jefferson vs. strict constitutionalists
+      - **What:** Tension between broad and strict constructionist views
+      - **When:** Throughout his presidency
+      - **Where:** In political debates
+      - **Why:** The Louisiana Purchase required a flexible interpretation of the Constitution
+      - **Significance:** Influenced later debates on federal power
+- **John Marshall & SCOTUS**
+  - **Who:** Chief Justice John Marshall
+  - **What:** Established judicial review in Marbury v. Madison
+  - **When:** 1803
+  - **Where:** United States Supreme Court
+  - **Why:** To ensure the Constitution remained the supreme law of the land
+  - **Significance:** Strengthened federal authority and the role of the judiciary
+- **Aaron Burr**
+  - **Who:** Aaron Burr, Vice President under Jefferson (and later political dissident)
+  - **What:** Involved in a controversial duel with Alexander Hamilton and later alleged treasonous activities
+  - **When:** Early 19th century
+  - **Where:** National political scene; New York for the duel
+  - **Why:** Political rivalry and personal ambition
+  - **Significance:** Symbolizes early political factionalism and the perils of personal vendettas in politics
+    - **Federalist Conspiracy**
+      - **Who:** Burr aligned with radical Federalists in New York
+      - **What:** Attempted to conspire to merge New York with New England
+      - **When:** Early 1800s
+      - **Where:** New York and New England
+      - **Why:** Reaction to perceived abandonment of Democratic-Republican ideals by Jefferson
+      - **Significance:** Demonstrates deep political divisions of the era
+    - **Duel with Hamilton**
+      - **Who:** Burr and Alexander Hamilton
+      - **What:** A deadly duel resulting in Hamilton’s death
+      - **When:** 1804
+      - **Where:** Weehawken, New Jersey
+      - **Why:** Personal and political animosity
+      - **Significance:** Marked a turning point in political decorum
+    - **Alleged Treason**
+      - **Who:** Burr
+      - **What:** Accused of plotting to seize territory in Mexico
+      - **When:** Shortly after the duel period
+      - **Where:** U.S. political sphere
+      - **Why:** Ambitions to challenge U.S. authority
+      - **Significance:** Led to a landmark legal case and debates over executive power
+- **Foreign Affairs in the Jeffersonian Era**
+  - **Chesapeake-Leopard Affair**
+    - **Who:** U.S. ship Chesapeake and British warship Leopard
+    - **What:** British attack on an American vessel
+    - **When:** 1807
+    - **Where:** Chesapeake Bay
+    - **Why:** Disputes over impressment of American sailors
+    - **Significance:** Increased tensions between the U.S. and Britain
+  - **Embargo Act (1807)**
+    - **Who:** Enacted by Jefferson’s administration
+    - **What:** Banned trade with Britain and France to pressure them economically
+    - **When:** 1807–1809
+    - **Where:** United States
+    - **Why:** To avoid war and assert economic independence
+    - **Significance:** Backfired, hurting American merchants and the economy; later replaced by the Nonintercourse Act
+- **Madison’s Presidency and the War of 1812**
+  - **James Madison**
+    - **Who:** 4th U.S. President and key Democratic-Republican leader
+    - **What:** Continued Jeffersonian policies and led the nation into the War of 1812
+    - **When:** 1809–1817
+    - **Where:** United States
+    - **Why:** To defend U.S. neutral rights and respond to British infringements
+    - **Significance:** His leadership during the war cemented American independence
+  - **Macon’s Bill No. 2 (1810)**
+    - **Who:** Enacted under Madison’s administration
+    - **What:** Legislation aimed at restoring trade with Britain and France under conditional terms
+    - **When:** 1810
+    - **Where:** United States
+    - **Why:** To leverage trade advantages based on neutral rights
+    - **Significance:** Illustrated early attempts to balance international trade relations
+  - **War of 1812**
+    - **Causes**
+      - **Who:** British actions (impressment, interference with trade) and conflicts with Native Americans
+      - **What:** A war declared by the U.S. against Britain
+      - **When:** 1812–1815
+      - **Where:** North America, particularly along the U.S.-Canada border
+      - **Why:** To defend American sovereignty and rights at sea
+      - **Significance:** Fostered national pride and a sense of independence despite mixed military results
+    - **Warfare and Campaigns**
+      - **Who:** American “Warhawks” like Henry Clay and John C. Calhoun; military leaders such as Andrew Jackson
+      - **What:** Battles including the Chesapeake Campaign and Southern Campaign
+      - **When:** 1812–1815
+      - **Where:** Various theaters including Washington, D.C., and New Orleans
+      - **Why:** To repel British forces and defend U.S. territory
+      - **Significance:** Raised the profile of leaders like Jackson and led to increased national unity
+    - **Treaty of Ghent (1814)**
+      - **Who:** Negotiators from the U.S. and Britain
+      - **What:** Treaty ending the War of 1812
+      - **When:** 1814 (ratified in 1815)
+      - **Where:** Ghent, Belgium
+      - **Why:** To restore pre-war boundaries without addressing impressment
+      - **Significance:** Marked the end of conflict and set the stage for a new era in U.S. nationalism
+    - **Hartford Convention**
+      - **Who:** New England Federalists
+      - **What:** Meeting to discuss grievances and potential secession
+      - **When:** 1814–1815
+      - **Where:** Hartford, Connecticut
+      - **Why:** In response to the War of 1812 and its economic impacts
+      - **Significance:** Undermined the Federalist Party and reinforced national unity
+
+---
+
+### Chapter 8: Era of Good Feelings
+- **Era of Good Feelings**
+  - **Who:** Predominantly Democratic-Republicans under James Monroe
+  - **What:** Period marked by political unity, though debates still simmered beneath the surface
+  - **When:** 1815–1825
+  - **Where:** United States
+  - **Why:** Following the War of 1812, with the collapse of the Federalist Party
+  - **Significance:** Set the stage for national growth and economic expansion despite internal divisions
+- **Nationalism and Unity**
+  - **James Monroe**
+    - **Who:** 5th U.S. President
+    - **What:** Embodied nationalistic ideals and unity
+    - **When:** 1817–1825
+    - **Where:** United States
+    - **Why:** To consolidate gains from the War of 1812 and promote a unified American identity
+    - **Significance:** His presidency is remembered for promoting a spirit of national pride
+- **Cultural Nationalism**
+  - **Who:** American writers, artists, and citizens
+  - **What:** Emergence of distinctly American literature, art, and culture
+  - **When:** Early 19th century
+  - **Where:** Primarily in New England and growing urban centers
+  - **Why:** Reaction to European cultural dominance and a desire for a unique identity
+  - **Significance:** Laid the foundation for a national cultural identity
+- **Economic Nationalism**
+  - **Tariff of 1816**
+    - **Who:** U.S. legislators
+    - **What:** First protective tariff aimed at shielding American industries
+    - **When:** 1816
+    - **Where:** United States
+    - **Why:** To promote domestic manufacturing and protect emerging industries
+    - **Significance:** Marked the start of government intervention in the economy
+  - **Henry Clay’s American System**
+    - **Who:** Henry Clay and his supporters
+    - **What:** Plan promoting protective tariffs, a national bank, and internal improvements
+    - **When:** Early 19th century
+    - **Where:** United States
+    - **Why:** To foster economic growth and national unity
+    - **Significance:** Influenced policy debates and helped modernize the American economy
+  - **Panic of 1819**
+    - **Who:** American financial institutions and citizens
+    - **What:** The first major economic downturn in the U.S.
+    - **When:** 1819
+    - **Where:** United States
+    - **Why:** Caused by tightened credit, land speculation, and overextension of the national bank
+    - **Significance:** Shook national confidence and led to calls for economic reform
+- **Judicial Developments (SCOTUS Cases)**
+  - **Who:** Under Chief Justice John Marshall
+  - **What:** Landmark cases reinforcing federal authority
+  - **When:** 1816–1821
+  - **Where:** United States Supreme Court
+  - **Why:** To interpret the Constitution in ways that enhanced federal power over the states
+  - **Significance:** Cases such as Fletcher v. Peck, Dartmouth v. Woodward, McCulloch v. Maryland, Cohens v. Virginia, and Gibbons v. Ogden solidified the federal government’s authority
+- **Westward Expansion and the Missouri Compromise**
+  - **Who:** U.S. lawmakers and settlers
+  - **What:** Expansion into western territories and debates over the extension of slavery
+  - **When:** Early 19th century
+  - **Where:** Territories west of the Appalachian Mountains
+  - **Why:** Economic opportunities and pressure from population growth
+  - **Significance:** The Missouri Compromise (establishing the 36°30' line) balanced free and slave states and set a precedent for future sectional conflicts
+- **Foreign Policy**
+  - **Florida and the Adams-Onís Treaty**
+    - **Who:** U.S. and Spanish negotiators
+    - **What:** Treaty transferring Florida from Spain to the U.S.
+    - **When:** 1819
+    - **Where:** Florida/Spain border regions
+    - **Why:** To resolve territorial disputes and secure U.S. borders
+    - **Significance:** Strengthened U.S. territorial claims in the Southeast
+  - **Monroe Doctrine**
+    - **Who:** President James Monroe and Secretary of State John Quincy Adams
+    - **What:** Policy declaring opposition to European colonialism in the Americas
+    - **When:** 1823
+    - **Where:** Western Hemisphere
+    - **Why:** To protect newly independent Latin American states and assert U.S. influence
+    - **Significance:** A cornerstone of U.S. foreign policy for the 19th century
+- **Growth of Industry**
+  - **Who:** American inventors and entrepreneurs
+  - **What:** Expansion of manufacturing, particularly in the Northeast
+  - **When:** Early to mid-19th century
+  - **Where:** Industrial centers like New England cities
+  - **Why:** Technological innovations such as Eli Whitney’s cotton gin and Samuel Slater’s textile mills
+  - **Significance:** Transformed the U.S. economy, leading to urbanization and labor movements
+
+---
+
+### Chapter 9: Sectionalism
+- **Northern Section**
+  - **Who:** Immigrants, industrialists, and urban workers
+  - **What:** A region characterized by rapid industrialization, commerce, and immigration
+  - **When:** Mid-19th century
+  - **Where:** Northeast and parts of the Midwest
+  - **Why:** Abundant manufacturing opportunities and favorable agricultural conditions for commercial farming
+  - **Significance:** Became the center of industrial progress and progressive labor reforms
+    - **Unions**
+      - **Who:** Organized labor groups and workers
+      - **What:** Legally recognized unions following the Commonwealth v. Hunt decision
+      - **When:** Mid-19th century
+      - **Where:** Northern industrial centers
+      - **Why:** To combat poor working conditions, low wages, and long hours
+      - **Significance:** Early steps toward labor rights and protections
+    - **African Americans**
+      - **Who:** Free Black communities in the North
+      - **What:** Enjoyed limited civil rights and economic opportunities
+      - **When:** Antebellum period
+      - **Where:** Northern cities
+      - **Why:** Economic necessity and gradual emancipation policies
+      - **Significance:** Their experiences contrasted sharply with Southern slavery
+    - **Immigration and Nativism**
+      - **Who:** Immigrants (Irish, Germans) and native-born Americans
+      - **What:** Large influx of immigrants; emergence of nativist sentiments
+      - **When:** Mid-19th century
+      - **Where:** Urban centers in the North
+      - **Why:** Economic opportunities versus cultural and religious differences
+      - **Significance:** Shaped demographic and political landscapes, igniting debates over national identity
+- **Southern Section**
+  - **Who:** Plantation owners, enslaved African Americans, and poorer white farmers
+  - **What:** Economy and society centered on slavery and agriculture (tobacco, rice, cotton)
+  - **When:** Antebellum period
+  - **Where:** The Southern states
+  - **Why:** Reliance on a labor-intensive cash crop economy
+  - **Significance:** Institutionalized slavery and a rigid social hierarchy that would later fuel sectional conflict
+    - **“Peculiar Institution” of Slavery**
+      - **Who:** Slaveholders and pro-slavery advocates
+      - **What:** Defense of slavery on cultural, economic, and pseudo-religious grounds
+      - **When:** Mid-19th century
+      - **Where:** Southern states
+      - **Why:** Viewed as beneficial for both slaves and masters
+      - **Significance:** Central to Southern identity and the eventual secession debate
+    - **Slave Resistance**
+      - **Who:** Enslaved Africans
+      - **What:** Acts of sabotage, slowdowns, escapes, and revolts (e.g., Nat Turner’s Revolt, 1831)
+      - **When:** Throughout the antebellum period
+      - **Where:** Various Southern plantations and regions
+      - **Why:** In response to brutal conditions and dehumanization
+      - **Significance:** Highlighted the inherent instability and moral contradictions of slavery
+    - **White Hierarchy**
+      - **Who:** Elite planters vs. poorer white farmers
+      - **What:** Social stratification based on wealth and slave ownership
+      - **When:** Antebellum South
+      - **Where:** Southern society
+      - **Why:** To maintain economic and social order
+      - **Significance:** Created internal class tensions despite a shared pro-slavery stance
+- **Western Section**
+  - **Who:** Frontier settlers and indigenous populations
+  - **What:** Regions characterized by vast, unsettled lands and the promise of new beginnings
+  - **When:** Mid-19th century
+  - **Where:** Areas from the Mississippi River to California
+  - **Why:** Economic opportunity and the desire for territorial expansion
+  - **Significance:** Laid the groundwork for future debates over statehood and slavery expansion
+    - **Native Displacement**
+      - **Who:** Indigenous peoples of the Great Plains and West
+      - **What:** Forced removal and marginalization as settlers expanded westward
+      - **When:** Antebellum period
+      - **Where:** Western frontier regions
+      - **Why:** Driven by American expansionism
+      - **Significance:** Foreshadowed later conflicts and injustices in U.S. history
+    - **Frontier Ideal**
+      - **Who:** American settlers and dreamers
+      - **What:** The notion of the frontier as a place for new beginnings
+      - **When:** Mid-19th century
+      - **Where:** Western territories
+      - **Why:** To escape the limitations of established society
+      - **Significance:** Became a lasting element of American cultural mythology
+
+---
+
+### Chapter 10: Jacksonian Era
+- **Jacksonian Democracy**
+  - **Who:** Followers of Andrew Jackson, "Old Hickory"
+  - **What:** Political movement emphasizing the power of the common man
+  - **When:** 1828–1837
+  - **Where:** United States
+  - **Why:** To expand democratic participation and reduce elite control
+  - **Significance:** Shifted U.S. politics toward mass participation and popular campaigning
+    - **Universal Male Suffrage**
+      - **Who:** White male citizens
+      - **What:** Expanded voting rights beyond property owners
+      - **When:** Gradually by 1840
+      - **Where:** Across the U.S.
+      - **Why:** To empower the common man in political processes
+      - **Significance:** Increased democratic participation and reshaped electoral politics
+    - **Party Nominating Conventions**
+      - **Who:** Political parties
+      - **What:** Transition from caucus selection to open conventions
+      - **When:** Early 19th century
+      - **Where:** United States
+      - **Why:** To involve the broader electorate in candidate selection
+      - **Significance:** Democratized political processes and enhanced transparency
+    - **Popular Campaigning**
+      - **Who:** Political candidates and their supporters
+      - **What:** Use of rallies, parades, and public events to mobilize voters
+      - **When:** Jacksonian era
+      - **Where:** Throughout the U.S.
+      - **Why:** To directly engage with and appeal to the common populace
+      - **Significance:** Set modern standards for political campaigns
+    - **Spoils System & Rotation of Office**
+      - **Who:** Jackson and his supporters
+      - **What:** Appointment of government jobs based on loyalty rather than merit; regular turnover in office
+      - **When:** Jackson’s presidency
+      - **Where:** Federal government
+      - **Why:** To democratize government employment and diminish entrenched elites
+      - **Significance:** Increased political patronage and reshaped federal administration
+- **Election of 1824 and the Corrupt Bargain**
+  - **Who:** John Quincy Adams, Henry Clay, William Crawford, Andrew Jackson
+  - **What:** Contested presidential election that resulted in a disputed outcome resolved in the House of Representatives
+  - **When:** 1824
+  - **Where:** National election
+  - **Why:** Jackson won the popular vote but lost electorally, leading to accusations of a "Corrupt Bargain"
+  - **Significance:** Deepened partisan divides and set the stage for Jackson’s eventual victory in 1828
+- **Revolution of 1828**
+  - **Who:** Andrew Jackson and his supporters
+  - **What:** A decisive electoral victory emphasizing the power of the common man
+  - **When:** 1828
+  - **Where:** United States
+  - **Why:** Jackson’s victory reflected widespread dissatisfaction with elitist politics
+  - **Significance:** Marked the beginning of the Jacksonian era in U.S. politics
+- **Jackson’s Presidency**
+  - **Who:** Andrew Jackson
+  - **What:** Presidency noted for a vigorous use of veto power and populist policies
+  - **When:** 1829–1837
+  - **Where:** United States
+  - **Why:** To promote a government more responsive to the people and challenge established institutions
+  - **Significance:** Redefined executive power and left a legacy of controversial policies
+    - **Indian Removal Act (1830)**
+      - **Who:** Jackson’s administration; Native American tribes affected
+      - **What:** Legislation forcing Native Americans west of the Mississippi River
+      - **When:** 1830
+      - **Where:** Southeastern United States
+      - **Why:** To open lands for American settlement
+      - **Significance:** Led to the Trail of Tears and remains a dark chapter in U.S. history
+      - **Related Cases:**
+        - **Cherokee Nation v. Georgia (1831)**
+          - **Who:** Cherokee Nation and state authorities
+          - **What:** Legal case regarding Cherokee sovereignty
+          - **When:** 1831
+          - **Where:** U.S. legal system
+          - **Why:** To contest state interference in Cherokee affairs
+          - **Significance:** Highlighted limitations in legal protections for Native Americans
+        - **Worcester v. Georgia (1832)**
+          - **Who:** Cherokee Nation and the state of Georgia
+          - **What:** Landmark case affirming Cherokee sovereignty over their lands
+          - **When:** 1832
+          - **Where:** U.S. Supreme Court
+          - **Why:** To establish that state laws did not apply in Cherokee territories
+          - **Significance:** A legal victory that was ultimately ignored by the executive branch
+    - **Nullification Crisis**
+      - **Who:** South Carolina and other states opposing federal tariffs
+      - **What:** Confrontation over the right of states to nullify federal law
+      - **When:** Early 1830s
+      - **Where:** South Carolina and national political arena
+      - **Why:** In response to what was seen as economically oppressive federal tariffs
+      - **Significance:** Tested federal authority and set a precedent for states' rights debates
+    - **Bank Veto and Pet Banks**
+      - **Who:** Jackson and his opponents such as Henry Clay
+      - **What:** Veto of the recharter of the National Bank; redistribution of federal funds to state banks ("pet banks")
+      - **When:** 1832–1833
+      - **Where:** United States
+      - **Why:** Jackson distrusted centralized banking power and sought to empower state banks
+      - **Significance:** Contributed to debates over federal versus state economic control
+    - **Panic of 1837**
+      - **Who:** American citizens and financial institutions
+      - **What:** Economic crisis following Jackson’s presidency, partly due to pet banks and the specie circular
+      - **When:** 1837
+      - **Where:** United States
+      - **Why:** Resulted from rapid expansion of credit and subsequent economic contraction
+      - **Significance:** Deepened political and economic divisions, influencing subsequent elections
+- **Emergence of a Two-Party System**
+  - **Who:** Democrats (Jacksonians) vs. Whigs
+  - **What:** Formation of organized political parties based on differing visions of federal power and economic policy
+  - **When:** 1830s–1840s
+  - **Where:** United States
+  - **Why:** Response to Jacksonian policies and reactions against perceived executive overreach
+  - **Significance:** Established the foundation of the modern American party system
+
+### Chapter 11: Antebellum/Reform
+- **Second Great Awakening**
+  - **Who:** Evangelical preachers and revivalists (e.g., Timothy Dwight, Charles Finney)
+  - **What:** Religious revival movement emphasizing personal salvation and emotional expression
+  - **When:** 1830s–1840s
+  - **Where:** Across the United States, especially on the frontier
+  - **Why:** Reaction against Enlightenment rationalism; a push to rekindle faith and morality
+  - **Significance:** Sparked numerous social reform movements
+    - **Mormons**
+      - **Who:** Followers led by Joseph Smith (Latter-Day Saints)
+      - **What:** A religious group practicing polygamy and communal living
+      - **When:** Early 19th century
+      - **Where:** Initially in the Northeast, later migrated to Utah
+      - **Why:** Persecuted for their beliefs and practices
+      - **Significance:** Illustrates the era’s religious experimentation and conflict
+    - **Reform Movements Spawned by the Awakening**
+      - **Temperance**
+        - **Who:** Reformers and Protestant leaders
+        - **What:** Movement to curb alcohol consumption
+        - **When:** Mid-19th century
+        - **Where:** United States
+        - **Why:** Addressed social issues and crime related to alcohol abuse
+        - **Significance:** Laid groundwork for later prohibition efforts
+      - **Education Reform**
+        - **Who:** Advocates like Horace Mann
+        - **What:** Campaigns to establish public schooling and improve education standards
+        - **When:** Mid-19th century
+        - **Where:** Nationwide
+        - **Why:** To create a more educated citizenry and improve social mobility
+        - **Significance:** Helped shape the modern public education system
+      - **Mental Health Reform**
+        - **Who:** Reformers such as Dorothea Dix
+        - **What:** Efforts to improve conditions in asylums and treatment for the mentally ill
+        - **When:** Mid-19th century
+        - **Where:** United States
+        - **Why:** To provide humane treatment for vulnerable populations
+        - **Significance:** Initiated changes in public health and social services
+      - **Women’s Rights Movement**
+        - **Who:** Activists like Sarah and Angelina Grimke, Lucretia Mott, and Elizabeth Stanton
+        - **What:** Advocacy for expanded rights and suffrage for women
+        - **When:** Antebellum period, culminating in the Seneca Falls Convention
+        - **Where:** United States
+        - **Why:** To challenge the limitations imposed on women in society and politics
+        - **Significance:** Sparked the long struggle for gender equality
+        - **Seneca Falls Convention (1848)**
+          - **Who:** Organized by Stanton and Mott
+          - **What:** Meeting that produced the Declaration of Sentiments demanding women’s rights
+          - **When:** 1848
+          - **Where:** Seneca Falls, New York
+          - **Why:** To formally call for gender equality and suffrage
+          - **Significance:** Laid the foundation for the modern women's rights movement
+- **Transcendentalism**
+  - **Who:** Ralph Waldo Emerson, Henry David Thoreau
+  - **What:** Philosophical movement advocating self-reliance, intuition, and the inherent goodness of people
+  - **When:** Early to mid-19th century
+  - **Where:** New England
+  - **Why:** To challenge established religious doctrines and promote individual conscience
+  - **Significance:** Influenced American literature, social reform, and nonviolent resistance (e.g., Thoreau’s Civil Disobedience)
+- **Utopian Communities**
+  - **Who:** Various groups seeking ideal social orders (e.g., Mormons, Shakers, Amana Colonies, New Harmony)
+  - **What:** Attempts to create self-sustaining, perfect societies outside mainstream norms
+  - **When:** 19th century
+  - **Where:** Scattered throughout the United States
+  - **Why:** To escape perceived societal flaws and implement communal ideals
+  - **Significance:** Highlighted experimentation with alternative models of society
+- **Antebellum Reform Movements**
+  - **Who:** Broad coalition of reformers spanning religious, social, and political spheres
+  - **What:** Initiatives aimed at addressing societal ills prior to the Civil War
+  - **When:** Mid-19th century
+  - **Where:** United States
+  - **Why:** To remedy social injustices and modernize American society
+  - **Significance:** Set the stage for later progressive reforms and contributed to the sectional debates over slavery
+    - **Public Asylums and Mental Health Reform**
+      - **Who:** Reform advocates like Dorothea Dix
+      - **What:** Campaigns for improved treatment of the mentally ill and better conditions in asylums
+      - **When:** Mid-19th century
+      - **Where:** Throughout the U.S.
+      - **Why:** To address inhumane conditions and advocate for humane treatment
+      - **Significance:** Pioneered modern approaches to mental health care
+    - **Public Education Reform**
+      - **Who:** Advocates like Horace Mann
+      - **What:** Efforts to establish and improve public schools and educational opportunities
+      - **When:** Antebellum period
+      - **Where:** United States
+      - **Why:** To create a well-informed citizenry capable of participating in democracy
+      - **Significance:** Transformed American education and expanded access to learning
+    - **Women’s Role and Rights**
+      - **Who:** Early feminists and social reformers (e.g., Grimke sisters, Mott, Stanton)
+      - **What:** Movement to expand the social, political, and economic roles of women
+      - **When:** Antebellum period
+      - **Where:** United States
+      - **Why:** To challenge restrictive societal norms and advocate for equality
+      - **Significance:** Laid the early foundations for the later women's suffrage movement
+    - **Anti-Slavery Movement**
+      - **Who:** Abolitionists such as William Lloyd Garrison, Frederick Douglass, David Walker, Henry Garnet
+      - **What:** Campaigns for the immediate abolition of slavery
+      - **When:** Antebellum period
+      - **Where:** United States
+      - **Why:** To end the moral and social injustice of slavery
+      - **Significance:** Intensified sectional tensions and contributed to the causes of the Civil War
+        - **American Colonization Society**
+          - **Who:** Moderate abolitionists and some racially motivated advocates
+          - **What:** Proposed sending freed slaves to Africa
+          - **When:** Early-to-mid 19th century
+          - **Where:** United States and Africa
+          - **Why:** Seen as a compromise to resolve racial tensions
+          - **Significance:** Reflected the deep divisions within the abolitionist movement
+        - **American Anti-Slavery Society**
+          - **Who:** Radical abolitionists led by figures like William Lloyd Garrison
+          - **What:** Called for immediate emancipation and equal rights for African Americans
+          - **When:** Mid-19th century
+          - **Where:** Nationwide
+          - **Why:** Based on moral imperatives and the principles of human equality
+          - **Significance:** Influenced public opinion and set the stage for more radical actions against slavery
+        - **Violent Abolitionism**
+          - **Who:** Activists such as David Walker and Henry Garnet
+          - **What:** Advocated for and sometimes incited slave revolts as a means to end slavery
+          - **When:** Antebellum period
+          - **Where:** United States
+          - **Why:** Believed that radical action was necessary to dismantle the institution of slavery
+          - **Significance:** Revealed the extent of frustration and the potential for violent conflict over slavery
+          
+# Unit 5 (1830–1877)
+
+## Chapter 12: Westward Expansion
+- **Manifest Destiny**
+  - **Who:** John O’Sullivan and expansionist Americans
+  - **What:** The belief that it was God’s duty for Americans to expand their territory and spread civilization and democracy
+  - **When:** Prominently during the 1830–1877 period
+  - **Where:** Across the American continent, from the Eastern seaboard to the West
+  - **Why:** Fueled by nationalism, economic opportunity, and religious sentiment
+  - **Significance:** Became the ideological foundation for territorial expansion and justified American imperialism
+  
+- **Reasons for Expansion**
+  - **Who:** American settlers, politicians, and entrepreneurs
+  - **What:** Motivations including Manifest Destiny, economic opportunities, population growth, rising nationalism, and technological improvements (railroads, canals)
+  - **When:** Throughout the mid-19th century
+  - **Where:** The expanding United States
+  - **Why:** To secure new resources, markets, and land for agriculture and industry
+  - **Significance:** Drove migration and shaped the nation’s economic and social development
+
+- **Texas**
+  - **Who:** Mexican authorities, American settlers, and leaders like Sam Houston
+  - **What:** Texas, originally part of Mexico, became a flashpoint for conflict due to its cultural and political differences
+  - **When:** Early-to-mid 19th century, notably during the Texas Revolution (1835–1836)
+  - **Where:** Texas, then under Mexican control
+  - **Why:** Mexico’s policies (forcing immigrants to convert to Catholicism and abolishing slavery) clashed with American settlers’ values and ambitions; led to revolt under Sam Houston against Santa Anna
+  - **Significance:** Texas’s bid for independence and subsequent annexation fueled sectional debates over slavery and set the stage for later conflicts in U.S. expansion
+
+- **Oregon**
+  - **Who:** British authorities and American settlers
+  - **What:** Oregon, then British-controlled, became a target for American expansion due to the presence of settlers and the desire for territorial control
+  - **When:** Mid-19th century
+  - **Where:** The Pacific Northwest
+  - **Why:** Americans sought to extend their influence and secure new land for settlement
+  - **Significance:** Contributed to the era’s expansionist policies and eventual boundary negotiations
+
+- **Election of 1844**
+  - **Who:** Political figures including Van Buren, John C. Calhoun, and the eventual nominee James K. Polk
+  - **What:** A contentious presidential race marked by debates over annexation and expansion
+  - **When:** 1844
+  - **Where:** National political arena
+  - **Why:** The issue of annexing Texas and expanding into Oregon and California split the Democratic Party and reshaped political alliances ("Fifty-four Forty or Fight!" became a slogan for expansionists)
+  - **Significance:** Resulted in Polk’s victory, which accelerated territorial expansion due to strong Southern and Western support
+
+- **Mexican American War**
+  - **Causes**
+    - **Who:** President James K. Polk and his supporters versus Mexican authorities
+    - **What:** A war sparked by disputes over the Texas border (Rio Grande vs. Nueces River) and American ambitions in California
+    - **When:** 1846–1848
+    - **Where:** Along the U.S.-Mexico border, notably in Texas and California
+    - **Why:** Polk’s insistence on the Rio Grande as the border and desire for territorial acquisition clashed with Mexican claims
+    - **Significance:** Marked a turning point in American territorial growth and intensified debates over slavery
+  - **Military Campaigns**
+    - **Who:** American generals such as Stephen Kearny and Zachary Taylor
+    - **What:** Key battles that pushed Mexican forces out of Texas and into California
+    - **When:** During the war (1846–1848)
+    - **Where:** Various battlefields in the Southwest
+    - **Why:** To secure decisive military victories that would force Mexico to negotiate
+    - **Significance:** Demonstrated American military prowess and resolve in pursuing expansion
+  - **Results**
+    - **Treaty of Guadalupe Hidalgo (1848)**
+      - **Who:** Negotiators from the United States and Mexico
+      - **What:** Treaty that ended the war; Mexico recognized the Rio Grande as the border and ceded California and New Mexico in return for $15 million
+      - **When:** 1848
+      - **Where:** Negotiated in Guadalupe Hidalgo, near Mexico City
+      - **Why:** To formally settle the conflict and define new national boundaries
+      - **Significance:** Greatly expanded U.S. territory while fueling sectional tensions over slavery
+    - **Wilmot Proviso**
+      - **Who:** Congressman David Wilmot and anti-slavery advocates
+      - **What:** Proposal to ban slavery in any territory acquired from Mexico
+      - **When:** Introduced during the war
+      - **Where:** In the U.S. Congress
+      - **Why:** To prevent the expansion of slavery into new territories
+      - **Significance:** Though it failed, it set an important precedent for future compromises on slavery
+
+- **Further Expansion Efforts**
+  - **Ostend Manifesto**
+    - **Who:** A group of American diplomats (details of authorship vary)
+    - **What:** A controversial document proposing the acquisition of Cuba by force if Spain refused to sell
+    - **When:** Mid-19th century
+    - **Where:** In diplomatic circles in Washington, D.C.
+    - **Why:** Driven by the same expansionist ideals and economic interests
+    - **Significance:** Although it did not result in Cuban annexation, it reflects the aggressive expansionist sentiment of the era
+  - **Gadsden Purchase**
+    - **Who:** Negotiated under President Franklin Pierce
+    - **What:** Purchase of a small tract of land in present-day New Mexico and Arizona to facilitate railroad construction
+    - **When:** 1853
+    - **Where:** The southern parts of the present-day Southwest
+    - **Why:** To secure a route for a southern transcontinental railroad and further expand U.S. territory
+    - **Significance:** Cemented U.S. control over key regions needed for transportation and commerce
+
+- **Settlement Patterns**
+  - **Who:** Predominantly middle-class settlers
+  - **What:** Migration patterns that bypassed the Great Plains in favor of established regions like Oregon and California
+  - **When:** Mid-19th century, especially following the Gold Rush
+  - **Where:** Western frontier areas with established settlements
+  - **Why:** Economic opportunities and the promise of a new start attracted settlers
+  - **Significance:** Influenced the demographic and economic makeup of the West
+
+- **Gold Rush (1848–1850s)**
+  - **Who:** Prospectors, immigrants (including a significant number of Chinese), and adventurers
+  - **What:** Mass migration to California following the discovery of gold
+  - **When:** Starting in 1848 and continuing into the 1850s
+  - **Where:** California
+  - **Why:** The promise of wealth and a rapid change in economic fortunes
+  - **Significance:** Transformed California’s economy, spurred infrastructure development, and accelerated further migration and diversity
+
+---
+
+# Unit 6: Late 1800s – Early 1900s
+
+## Chapter 16: 2nd Westward Migration
+- **Protective Tariffs**
+  - **Who:** U.S. government policymakers
+  - **What:** Imposition of tariffs on imported goods
+  - **When:** Late 19th century
+  - **Where:** United States (affecting both domestic and international trade)
+  - **Why:** To protect domestic industries by making imported goods more expensive
+  - **Significance:** Benefited Northern manufacturers by boosting domestic production and sales; harmed Southern economies that relied on exporting goods to Europe
+- **Foreign Relations**
+  - **William Seward’s Global Assertion**
+    - **Who:** William Seward, U.S. Secretary of State
+    - **What:** Advocated for expanding U.S. influence abroad
+    - **When:** Late 1800s
+    - **Where:** On the international stage
+    - **Why:** To establish the U.S. as a global power through economic and diplomatic means
+    - **Significance:** Set the stage for later territorial acquisitions and international treaties
+  - **Treaty of Kanagawa**
+    - **Who:** U.S. and Japan
+    - **What:** Opened Japanese ports to American ships for trade
+    - **When:** 1854 (its effects resonated into the late 1800s as U.S. asserted power)
+    - **Where:** Japan
+    - **Why:** To secure economic advantage and project power in Asia
+    - **Significance:** Demonstrated U.S. willingness to use economic pressure to influence foreign policy
+  - **William Seward’s “Icebox”**
+    - **Who:** William Seward
+    - **What:** Proposal to purchase Alaska, nicknamed “Icebox”
+    - **When:** 1867 (effects carried into the later period)
+    - **Where:** Alaska
+    - **Why:** To expand U.S. territory and assert influence in the far north
+    - **Significance:** Expanded U.S. resources and strategic position
+  - **Burlingame Treaty**
+    - **Who:** U.S. diplomats and Chinese authorities
+    - **What:** Treaty guaranteeing rights for U.S. missionaries and setting guidelines for Chinese immigration
+    - **When:** 1868
+    - **Where:** Between the U.S. and China
+    - **Why:** To promote cultural exchange and regulate immigration before the Exclusion Act
+    - **Significance:** Influenced later immigration policies and U.S.-China relations
+- **Railroads**
+  - **Who:** Railroad companies and the federal/state governments
+  - **What:** Expansion and regulation of railroads
+  - **When:** Late 19th century
+  - **Where:** Across the United States
+  - **Why:** To facilitate communication, travel, and economic growth by connecting distant regions
+  - **Significance:** Transformed the domestic economy; government charters helped railroad companies secure capital; landmark case Munn v. Illinois affirmed state regulation for the “common good”
+- **Gold Standard vs. Bimetallism**
+  - **Gold Standard**
+    - **Who:** U.S. policymakers and financial leaders
+    - **What:** Adoption of gold alone as the monetary standard
+    - **When:** Enforced by the Coinage Act of 1873 (“Crime of 1873”)
+    - **Where:** United States
+    - **Why:** To align with international monetary practices and stabilize currency value
+    - **Significance:** Rendered silver obsolete, angering miners and debtors; contributed to economic debates and populist sentiment
+- **Homestead Act**
+  - **Who:** U.S. Congress and prospective settlers
+  - **What:** Legislation granting 160 acres of public land to applicants
+  - **When:** 1862 (its effects prominent in the late 1800s)
+  - **Where:** Interior West
+  - **Why:** To promote settlement and agricultural development
+  - **Significance:** Encouraged migration (including by impoverished Southerners) and the development of the West
+- **Morrill Act**
+  - **Who:** U.S. government
+  - **What:** Provided federal funds for establishing land-grant colleges
+  - **When:** 1862
+  - **Where:** Across the U.S. (especially in the West)
+  - **Why:** To expand higher education and promote agriculture and mechanical arts
+  - **Significance:** Helped develop an educated workforce and spurred regional development
+- **Long Drive**
+  - **Who:** Cowboys and cattle ranchers
+  - **What:** Movement of cattle herds along railroads to market
+  - **When:** Post-Civil War era into the late 1800s
+  - **Where:** From the open range to railroad hubs
+  - **Why:** To capitalize on demand for beef in urban centers
+  - **Significance:** Became a symbol of the rugged, independent spirit of the West
+- **Exodusters**
+  - **Who:** African Americans, particularly former slaves
+  - **What:** Migration of African Americans out of the South to the West
+  - **When:** 1879 onward
+  - **Where:** Western territories (e.g., Kansas)
+  - **Why:** To escape racial violence and discrimination (KKK, white supremacy)
+  - **Significance:** Represented a search for freedom and economic opportunity in a segregated society
+- **Life in the West**
+  - **Who:** Settlers and homesteaders
+  - **What:** Daily challenges of farming and living in harsh environments
+  - **When:** Late 1800s
+  - **Where:** Interior West and Great Plains
+  - **Why:** Natural disasters, unpredictable weather, and small land grants made life difficult
+  - **Significance:** Highlighted the stark reality behind the promise of the West
+- **Yellowstone & National Parks**
+  - **Who:** Conservationists and the U.S. government
+  - **What:** Establishment of protected lands for beauty, leisure, and conservation
+  - **When:** Yellowstone established in 1872
+  - **Where:** Yellowstone National Park and other natural areas
+  - **Why:** To preserve natural wonders and promote public enjoyment of nature
+  - **Significance:** Pioneered the national park movement and environmental conservation
+- **Native American Wars and Policies**
+  - **Sand Creek Massacre**
+    - **Who:** U.S. military forces under Colonel Chivington vs. Cheyenne warriors
+    - **What:** A violent massacre of Native Americans
+    - **When:** 1864
+    - **Where:** Colorado
+    - **Why:** Part of broader conflicts over territory and resources
+    - **Significance:** A dark chapter in U.S. Indian policy; emblematic of violent expansion
+  - **Fetterman Massacre**
+    - **Who:** U.S. troops vs. Lakota Sioux, Cheyenne, and Arapaho warriors
+    - **What:** A battle resulting in a major defeat for the U.S. Army
+    - **When:** 1866
+    - **Where:** Montana Territory
+    - **Why:** Conflict over territorial expansion
+    - **Significance:** Demonstrated the strength and resistance of Native forces
+  - **Battle of Little Bighorn**
+    - **Who:** U.S. 7th Cavalry under Lt. Col. Custer vs. Lakota Sioux and Cheyenne warriors
+    - **What:** A significant Native victory, famously known as Custer’s Last Stand
+    - **When:** 1876
+    - **Where:** Montana
+    - **Why:** Resulted from resistance to U.S. encroachment on Native lands
+    - **Significance:** Symbolized Native resistance and became a rallying point in Indian history
+  - **Wounded Knee Massacre**
+    - **Who:** U.S. troops vs. Lakota Sioux
+    - **What:** The final major battle between Native Americans and U.S. forces; a massacre following the Ghost Dance Movement
+    - **When:** 1890
+    - **Where:** South Dakota
+    - **Why:** Suppression of Native spiritual resistance
+    - **Significance:** Marked the end of major armed Native resistance
+  - **Lone Wolf v. Hitchcock**
+    - **Who:** U.S. Congress vs. Native American tribes
+    - **What:** Legal ruling that allowed Congress to abrogate treaties with Native tribes
+    - **When:** 1903
+    - **Where:** U.S. legal system
+    - **Why:** Asserted federal power over treaty rights
+    - **Significance:** Deepened the erosion of Native sovereignty
+  - **Dawes Severalty Act**
+    - **Who:** U.S. Congress
+    - **What:** Legislation to break up tribal lands and force assimilation of Native Americans
+    - **When:** 1887
+    - **Where:** Across Native American reservations
+    - **Why:** To integrate Native Americans into American society as individual landowners
+    - **Significance:** Led to significant loss of tribal lands and cultural disruption
+- **Frederick Jackson Turner’s Frontier Thesis**
+  - **Who:** Historian Frederick Jackson Turner
+  - **What:** Thesis arguing that American democracy and culture were shaped by the frontier experience
+  - **When:** Presented in 1893
+  - **Where:** Academic circles in the U.S.
+  - **Why:** To explain how continuous expansion influenced American identity
+  - **Significance:** Influenced historical interpretations of American expansion and democracy
+
+## Chapter 17: Business Boomin’ Time
+- **Vertical Integration**
+  - **Who:** Industrial leaders such as Swift
+  - **What:** Strategy of controlling every stage of production
+  - **When:** Late 1800s
+  - **Where:** In major industries (e.g., meatpacking)
+  - **Why:** To reduce costs and maximize profits
+  - **Significance:** Revolutionized production processes and set standards for monopoly control
+- **Horizontal Integration**
+  - **Who:** Industry leaders like Rockefeller
+  - **What:** Strategy of buying out competitors to create monopolies
+  - **When:** Late 1800s
+  - **Where:** Various industries (oil, railroads, etc.)
+  - **Why:** To dominate markets and eliminate competition
+  - **Significance:** Led to the formation of conglomerates and monopolistic practices
+- **Trusts**
+  - **Who:** Business conglomerates
+  - **What:** Cooperative agreements between companies to control industries
+  - **When:** Late 19th century
+  - **Where:** Across U.S. industries
+  - **Why:** To consolidate power and control prices
+  - **Significance:** Sparked public outcry and antitrust legislation
+- **Shift in Management**
+  - **Who:** Progressive business leaders
+  - **What:** Division of management tasks (finances, marketing, production)
+  - **When:** Late 1800s
+  - **Where:** Corporate boardrooms and factories
+  - **Why:** To increase efficiency and specialization
+  - **Significance:** Modernized corporate structures and improved operational efficiency
+- **Skilled vs. Unskilled Workers**
+  - **Who:** Industrial workers and employers
+  - **What:** Replacement of skilled craftsmen with cheaper, unskilled labor
+  - **When:** Late 19th century
+  - **Where:** Factories and industrial plants
+  - **Why:** To cut costs and increase production speed
+  - **Significance:** Altered labor markets and contributed to labor disputes
+- **Scientific Management**
+  - **Who:** Business reformers attempting new efficiency methods
+  - **What:** System that rewards speed and productivity with higher pay
+  - **When:** Late 1800s
+  - **Where:** In manufacturing and industrial settings
+  - **Why:** To optimize work processes and output
+  - **Significance:** Influenced later management theories despite limited adoption due to labor resistance
+- **Immigration**
+  - **Old Immigrants**
+    - **Who:** Immigrants from English-speaking countries (Ireland, Germany)
+    - **What:** Arrivals generally Protestant, with some cultural assimilation
+    - **When:** Mid to late 19th century
+    - **Where:** U.S. urban centers and industrial regions
+    - **Why:** Seeking economic opportunity and escape from hardship
+    - **Significance:** Contributed to the workforce and shaped urban culture
+  - **New Immigrants**
+    - **Who:** Immigrants from Eastern Europe (Italy, Poland, Russia, etc.) and Chinese
+    - **What:** Arrivals often escaping poverty or persecution; culturally distinct (Jewish, Catholic)
+    - **When:** Late 1800s
+    - **Where:** Urban industrial centers
+    - **Why:** Economic opportunity and refuge from oppression
+    - **Significance:** Faced heavy discrimination (e.g., Chinese Exclusion Act) and provided labor for rapid industrial growth
+- **Chinese Exclusion Act**
+  - **Who:** U.S. lawmakers and Chinese immigrants
+  - **What:** Legislation banning Chinese immigration and denying citizenship
+  - **When:** 1882
+  - **Where:** United States
+  - **Why:** Driven by racial prejudice and economic competition
+  - **Significance:** Marked the first major law restricting immigration based on ethnicity
+- **Great Railroad Strike**
+  - **Who:** Railroad workers and labor unions
+  - **What:** Nationwide strike protesting wage cuts and poor working conditions
+  - **When:** 1877
+  - **Where:** Across major U.S. railroads
+  - **Why:** Reaction to deteriorating labor conditions and corporate greed
+  - **Significance:** Sparked national awareness of labor issues and union organization
+- **Henry George & Poverty and Progress**
+  - **Who:** Economist Henry George
+  - **What:** Critique of industrial capitalism arguing that industrial power led to widespread poverty
+  - **When:** Late 1800s
+  - **Where:** U.S. intellectual and reform circles
+  - **Why:** To warn against the excesses of industrial capitalism
+  - **Significance:** Influenced reform movements and debates over wealth distribution
+- **Greenback Labor Party & Producerism**
+  - **Who:** Populist groups and labor reform advocates
+  - **What:** Movements pushing for monetary reform (more greenbacks) and criticizing the exploitation by business elites
+  - **When:** Late 1800s
+  - **Where:** Rural and industrial areas
+  - **Why:** To improve economic conditions for borrowers and laborers
+  - **Significance:** Laid groundwork for future monetary and labor reforms
+- **Granger Laws**
+  - **Who:** Agrarian reformers
+  - **What:** Regulations imposed on railroads
+  - **When:** Late 1800s
+  - **Where:** Rural America
+  - **Why:** To protect farmers from exploitative railroad practices
+  - **Significance:** Sparked broader reform movements despite weak enforcement
+- **Knights of Labor & Labor Unions**
+  - **Who:** Labor activists and union organizers (e.g., Knights of Labor, AFL)
+  - **What:** Organizations aimed at uniting workers for better wages and conditions
+  - **When:** Late 19th century
+  - **Where:** Throughout U.S. industries
+  - **Why:** To counter exploitative business practices and promote worker solidarity
+  - **Significance:** Paved the way for modern labor unions despite violent setbacks (e.g., Haymarket Protest)
+- **Farmers Alliance & Related Legislation**
+  - **Who:** Agrarian groups such as the Farmers Alliance and Greenback Labor Party
+  - **What:** Movements advocating for farmers' rights and economic reforms (e.g., Hatch Act, Interstate Commerce Act)
+  - **When:** Late 1800s
+  - **Where:** Rural America
+  - **Why:** To secure fair prices and transportation for agricultural goods
+  - **Significance:** Influenced later populist and progressive reforms
+- **Tactics Against Labor Unions**
+  - **Who:** Employers and government authorities
+  - **What:** Methods such as lockouts, blacklists, yellow dog contracts, and use of state militias
+  - **When:** Late 19th century
+  - **Where:** Across industrial workplaces
+  - **Why:** To suppress union activities and maintain control over labor
+  - **Significance:** Highlighted the intense struggle between capital and labor in this era
+- **Violent Strikes**
+  - **Homestead Strike & Pullman Strike**
+    - **Who:** Industrial workers and management
+    - **What:** Major violent confrontations between workers and company forces
+    - **When:** Late 1800s
+    - **Where:** Key industrial centers (e.g., Homestead, Pullman)
+    - **Why:** Resulted from deteriorating working conditions and wage disputes
+    - **Significance:** Demonstrated the volatility of industrial labor relations and prompted calls for reform
+
+## Chapter 18: Victorian Era
+- **Consumer Culture**
+  - **Who:** Wealthy urban Americans
+  - **What:** Rise of a culture centered on leisure and consumerism
+  - **When:** Late 19th century
+  - **Where:** Urban centers in the U.S.
+  - **Why:** Industrialization and increased wealth encouraged spending for pleasure
+  - **Significance:** Transformed American society and urban lifestyles
+- **Racial Segregation and Legal Cases**
+  - **Plessy v. Ferguson**
+    - **Who:** Homer Plessy and the legal system
+    - **What:** Supreme Court decision upholding “separate but equal” doctrine
+    - **When:** 1896
+    - **Where:** United States
+    - **Why:** Argued that racial segregation did not violate the 14th Amendment
+    - **Significance:** Legitimized Jim Crow laws and racial discrimination for decades
+  - **Jim Crow Laws**
+    - **Who:** Southern state legislators
+    - **What:** Laws enforcing racial segregation in public facilities
+    - **When:** Late 19th to early 20th century
+    - **Where:** Southern United States
+    - **Why:** To maintain white supremacy and social control
+    - **Significance:** Institutionalized racial inequality and disenfranchisement of African Americans
+- **Urban and Environmental Organizations**
+  - **YMCA**
+    - **Who:** Community leaders and reformers
+    - **What:** Organization to help assimilate young men and immigrants
+    - **When:** Late 19th century
+    - **Where:** Urban America
+    - **Why:** To promote “Muscular Christianity” and social welfare
+    - **Significance:** Influenced urban reform and immigrant integration
+  - **Sierra Club & National Park Service**
+    - **Who:** Conservationists (e.g., John Muir) and the federal government
+    - **What:** Efforts to preserve natural landscapes and create national parks
+    - **When:** Late 1800s
+    - **Where:** U.S. wilderness areas
+    - **Why:** To protect natural beauty and promote public leisure
+    - **Significance:** Laid the foundation for modern environmental conservation
+  - **Antiques Act & National Audubon Society**
+    - **Who:** Government and environmentalists
+    - **What:** Legislation and organizations dedicated to preserving historical monuments and endangered species
+    - **When:** Late 19th century
+    - **Where:** United States
+    - **Why:** To safeguard cultural heritage and natural biodiversity
+    - **Significance:** Reflected growing public interest in preservation during industrialization
+- **Social and Cultural Movements**
+  - **Women’s Rights and Suffrage**
+    - **“Solitude of Self”**
+      - **Who:** Elizabeth Cady Stanton and suffragettes
+      - **What:** Argument for inherent equality of women
+      - **When:** Late 19th century
+      - **Where:** In feminist literature and activism
+      - **Why:** To challenge patriarchal norms and secure voting rights
+      - **Significance:** Helped lay the groundwork for the women’s suffrage movement
+  - **Comstock Act (1873)**
+    - **Who:** U.S. Congress
+    - **What:** Legislation banning distribution of sexual and birth control information
+    - **When:** 1873
+    - **Where:** United States
+    - **Why:** Driven by moral panic over sexual content and desire to protect youth
+    - **Significance:** Reflected Victorian moral standards and affected reproductive rights
+  - **Booker T. Washington and Education**
+    - **Who:** Booker T. Washington
+    - **What:** Advocated for industrial education for African Americans (Tuskegee Institute)
+    - **When:** Late 19th century
+    - **Where:** The South
+    - **Why:** Believed that vocational training would lead to economic empowerment and gradual social progress
+    - **Significance:** Influenced African American strategies for civil rights
+  - **Emerging Artistic and Intellectual Movements**
+    - **Modernism & Naturalism**
+      - **Who:** American artists and writers
+      - **What:** Movements challenging traditional art and literature
+      - **When:** Late Victorian era
+      - **Where:** Urban cultural centers
+      - **Why:** Reaction against industrialization and conventional norms
+      - **Significance:** Transformed American cultural and artistic expressions
+  - **Nativist and Religious Movements**
+    - **American Protective Association (APA)**
+      - **Who:** Nativist Protestants
+      - **What:** Organization opposing immigration of Catholics and Jews
+      - **When:** Late 19th century
+      - **Where:** United States
+      - **Why:** Based on racial and religious prejudice
+      - **Significance:** Contributed to rising xenophobia and restrictive immigration policies
+    - **Social Gospel vs. Fundamentalism**
+      - **Social Gospel**
+        - **Who:** Progressive Protestants
+        - **What:** Movement advocating for social justice and welfare as a Christian duty
+        - **When:** Late 19th to early 20th century
+        - **Where:** Urban churches and reform movements
+        - **Why:** To address social inequities through faith-based activism
+        - **Significance:** Influenced later welfare policies and progressive reforms
+      - **Fundamentalism**
+        - **Who:** Conservative religious groups
+        - **What:** Emphasis on literal interpretation of the Bible and spiritual redemption
+        - **When:** Late 19th century
+        - **Where:** Various American religious communities
+        - **Why:** To counter modernist interpretations of religion
+        - **Significance:** Laid the basis for enduring religious debates in American society
+
+## Chapter 19: Gilded Age Politics
+- **Political Environment**
+  - **Who:** Presidents, party leaders, and political machines
+  - **What:** A period of laissez-faire policies and minimal government intervention
+  - **When:** Late 19th century
+  - **Where:** Nationwide, especially in urban centers and the South
+  - **Why:** Influenced by Social Darwinism and a belief in minimal government interference in the economy
+  - **Significance:** Created a backdrop of corruption and patronage that spurred later reforms
+- **“Waving the Bloody Shirt”**
+  - **Who:** Republican politicians
+  - **What:** Use of Civil War memories to rally Northern voters and denounce Southern Democrats
+  - **When:** Post-Civil War into the Gilded Age
+  - **Where:** Political campaigns in the North
+  - **Why:** To appeal to wartime patriotism and guilt over Southern actions
+  - **Significance:** Cemented party loyalties and shaped electoral strategies
+- **Municipal Political Machines**
+  - **Who:** Local political bosses (e.g., Boss Tweed)
+  - **What:** Dominant urban political organizations using patronage and corruption
+  - **When:** Late 19th century
+  - **Where:** Major Northern cities
+  - **Why:** To maintain control over urban electorates and secure votes through public services
+  - **Significance:** Symbolized the corruption of the Gilded Age and led to calls for reform
+- **Solid South**
+  - **Who:** White Southern Democrats
+  - **What:** Complete political dominance in the Southern states
+  - **When:** Post-Reconstruction through the Gilded Age
+  - **Where:** Southern United States
+  - **Why:** Enforced by Jim Crow laws and disenfranchisement of African Americans
+  - **Significance:** Reinforced racial segregation and maintained the status quo in the South
+- **Voting Restrictions**
+  - **Williams v. Mississippi**
+    - **Who:** U.S. Supreme Court and Southern states
+    - **What:** Case that upheld poll taxes and literacy tests
+    - **When:** 1898
+    - **Where:** Mississippi (and applied broadly in the South)
+    - **Why:** To legally suppress African American and poor white voting
+    - **Significance:** Institutionalized voter suppression tactics
+- **Republican Party Factions**
+  - **Stalwarts**
+    - **Who:** Pro-patronage Republicans
+    - **What:** Supported political machines and the spoils system
+    - **When:** Late 19th century
+    - **Where:** Northern political organizations
+    - **Why:** To maintain established power structures and patronage rewards
+    - **Significance:** Contributed to political corruption
+  - **Half-Breeds**
+    - **Who:** Reform-minded Republicans
+    - **What:** Advocated for a merit-based civil service system
+    - **When:** Late 19th century
+    - **Where:** Within the Republican Party
+    - **Why:** To replace the spoils system with fairer, competitive appointments
+    - **Significance:** Laid the groundwork for later civil service reforms (e.g., Pendleton Act)
+  - **Mugwumps**
+    - **Who:** Republican reformers disillusioned with corruption
+    - **What:** Switched allegiance to Democrats in support of reform-minded candidates like Grover Cleveland
+    - **When:** 1884 election
+    - **Where:** Primarily in urban centers
+    - **Why:** To reject corruption and demand political reform
+    - **Significance:** Highlighted internal party divisions and the demand for change
+- **Monetary Policy and Populism**
+  - **Coinage Act of 1873 (“Crime of 1873”)**
+    - **Who:** U.S. Congress and affected miners/debtors
+    - **What:** Enforced the Gold Standard and rendered silver coins worthless
+    - **When:** 1873
+    - **Where:** United States
+    - **Why:** To stabilize currency by eliminating bimetallism
+    - **Significance:** Sparked populist anger among miners and indebted farmers
+  - **Bland-Allison Act & Sherman Silver Purchase Act**
+    - **Who:** U.S. Congress
+    - **What:** Legislation to reintroduce silver into circulation
+    - **When:** Late 1870s/1890
+    - **Where:** United States
+    - **Why:** To appease silver supporters and stimulate the economy
+    - **Significance:** Temporarily reintroduced bimetallism, fueling ongoing monetary debates
+- **Populist Movement and Economic Reforms**
+  - **Who:** Farmers and common people
+  - **What:** Populist demands for political and economic reforms (e.g., direct election of Senators, income tax, public ownership of railroads)
+  - **When:** 1890s
+  - **Where:** Rural areas and political platforms like the Omaha Platform
+  - **Why:** To address economic hardships and counter the power of monopolies
+  - **Significance:** Influenced Progressive reforms in the early 20th century
+- **Panic of 1893 and Its Aftermath**
+  - **Who:** National economy and affected industries
+  - **What:** Severe economic depression marked by bankruptcies and high unemployment
+  - **When:** 1893
+  - **Where:** United States
+  - **Why:** Caused by overextension of railroads, collapsing stock markets, and reduced consumer confidence
+  - **Significance:** Led to large-scale unemployment (e.g., Coxey’s Army) and further calls for reform
+- **End of Bimetallism**
+  - **Who:** U.S. government and financial institutions
+  - **What:** Abandonment of silver coinage in favor of the Gold Standard
+  - **When:** Following the Panic of 1893
+  - **Where:** United States
+  - **Why:** To stabilize the national currency
+  - **Significance:** Marked a key turning point in monetary policy and economic debates
+
+*Summary of Unit 6:*  
+Unit 6 covers the dynamic transformation of the United States during the Late 1800s to Early 1900s, highlighting the second wave of westward migration and domestic expansion (Chapter 16), the explosive growth and consolidation of industry along with the challenges faced by labor and immigration (Chapter 17), the cultural and social shifts of the Victorian era including consumerism, racial segregation, and reform movements (Chapter 18), and the tumultuous political landscape of the Gilded Age marked by corruption, populist reform demands, and shifting party dynamics (Chapter 19). These developments set the stage for the Progressive Era reforms that would soon reshape American society.
+
+# Unit 7: 1890-1945
+
+## Chapter 21: Imperialism
+
+- **Josiah Strong – "Our Country"**
+  - **Who:** Josiah Strong, a clergyman and writer
+  - **What:** A book that argued for American exceptionalism and the moral duty to “civilize” non-Western peoples
+  - **When:** Published in the late 19th century
+  - **Where:** United States (influential among American reformers and expansionists)
+  - **Why:** To justify imperialism by promoting the belief that Anglo-Saxon Americans were divinely destined to spread democracy
+  - **Significance:** Helped popularize the “white man’s burden” ideology and bolstered support for overseas expansion
+
+- **Arguments for Imperialism**
+  - **Who:** Predominantly Republican leaders such as Theodore Roosevelt and William Taft
+  - **What:** The rationale that, with no free land remaining in America, the nation needed to secure resources and raw materials abroad
+  - **When:** Late 1890s to early 1900s
+  - **Where:** Focused on acquiring territories in Latin America, the Caribbean, and the Pacific
+  - **Why:** Driven by a surplus in agriculture and industrial production, racialized Social Darwinism, and the need to catch up with European colonial powers
+  - **Significance:** Provided the ideological and economic basis for U.S. overseas expansion
+
+- **Arguments Against Imperialism**
+  - **Who:** Primarily Democratic critics, along with progressive reformers and women’s rights activists
+  - **What:** The belief that American foreign intervention should be avoided in favor of addressing domestic issues
+  - **When:** Same period as the expansion debates (late 19th century)
+  - **Where:** Debate centered within U.S. political discourse and reform movements
+  - **Why:** Opponents argued that imperialism undermined self‐government at home and that non-white peoples did not need “civilizing”
+  - **Significance:** Laid the groundwork for later anti-imperialist and isolationist sentiments
+
+- **War of 1898 (Spanish–American War)**
+  - **Causes**
+    - **Who:** U.S. public influenced by journalists (Hearst vs. Pulitzer) and political leaders
+    - **What:** Conflict sparked by Cuba’s bid for independence and economic interests in the Caribbean
+    - **When:** 1898
+    - **Where:** Cuba, Puerto Rico, Guam, and the Philippines
+    - **Why:** Factors included Cuba’s disruptive bid for independence, the need for cheap labor and lucrative trade, yellow journalism, jingoism, and incidents like the Dupuy DeLome Letter and USS Maine explosion
+    - **Significance:** Marked America’s first major military engagement abroad and signaled the nation’s emerging imperial power
+  - **Teller Amendment**
+    - **Who:** U.S. Congress
+    - **What:** A provision declaring that the U.S. would not annex Cuba
+    - **When:** 1898, during the Spanish–American War
+    - **Where:** In U.S. legislative debates
+    - **Why:** To reassure both domestic critics and Cubans that the war was not for territorial conquest
+    - **Significance:** Highlighted the ambivalence of U.S. imperial policy
+  - **Insular Cases**
+    - **Who:** U.S. Supreme Court
+    - **What:** A series of decisions ruling that U.S. citizenship did not automatically extend to people in newly acquired territories
+    - **When:** Following the 1898 war
+    - **Where:** Affecting territories like Puerto Rico, Guam, and the Philippines
+    - **Why:** To determine the legal status of residents in these territories
+    - **Significance:** Set a precedent for the “unincorporated” status of U.S. territories, reflecting a form of imperial control
+  - **Platt Amendment**
+    - **Who:** U.S. Congress and President McKinley’s administration
+    - **What:** Legislation that limited Cuba’s sovereignty by reserving for the U.S. the right to intervene in Cuban affairs
+    - **When:** Enacted in 1901
+    - **Where:** Cuba
+    - **Why:** To ensure U.S. strategic and economic interests in the Caribbean were maintained
+    - **Significance:** Deepened U.S. involvement in Cuban politics and set an example for future American interventionism
+  - **Results of the War**
+    - **Who:** U.S. government and military; affected peoples in Cuba, Puerto Rico, Guam, and the Philippines
+    - **What:** The U.S. emerged as a global power with territorial acquisitions, though some local revolts for independence occurred
+    - **When:** Immediately post-1898
+    - **Where:** The Caribbean and Pacific
+    - **Why:** Victory led to peace treaties with Spain that reshaped territorial boundaries
+    - **Significance:** Laid the foundation for American imperial expansion and a more interventionist foreign policy
+
+- **Hawaii**
+  - **Who:** U.S. business interests (the Annexation Club), Queen Liliuokalani, and U.S. Marines
+  - **What:** The overthrow of the Hawaiian monarchy and eventual annexation of Hawaii
+  - **When:** Late 1890s (1893 overthrow; annexation in 1898)
+  - **Where:** Hawaii, in the central Pacific
+  - **Why:** Driven by economic interests (sugar trade) and strategic military considerations
+  - **Significance:** Expanded U.S. influence in the Pacific and provided a critical naval base for future operations
+
+- **Imperialism in China & Japan**
+  - **Open Door Policy**
+    - **Who:** U.S. Secretary of State John Hay
+    - **What:** A policy calling for equal trading rights for all nations in China
+    - **When:** Introduced in 1899–1900
+    - **Where:** China
+    - **Why:** To prevent any single power from monopolizing Chinese trade and to secure economic opportunities for the U.S.
+    - **Significance:** Asserted U.S. economic interests in Asia without formally colonizing China
+  - **Takahira Agreement**
+    - **Who:** U.S. and Japanese diplomats
+    - **What:** An understanding promoting free commerce and limited Japanese influence in parts of Northern China
+    - **When:** Early 20th century
+    - **Where:** Primarily in Northern China
+    - **Why:** To stabilize trade relationships in East Asia
+    - **Significance:** Although less well known, it reflected the complexities of U.S.–Japan relations during the imperial era
+
+- **US & Latin America**
+  - **Hay–Pauncefote Treaty**
+    - **Who:** U.S. and British negotiators
+    - **What:** A treaty that cleared the way for American control over the Panama Canal
+    - **When:** 1901
+    - **Where:** Negotiated between the U.S. and Britain regarding the Panama Canal Zone
+    - **Why:** To secure a strategic maritime route essential for trade and military mobility
+    - **Significance:** Enhanced U.S. influence in Latin America and underscored the nation’s growing role as a global power
+
+- **Roosevelt Corollary**
+  - **Who:** President Theodore Roosevelt
+  - **What:** An extension of the Monroe Doctrine, asserting U.S. intervention in Latin American countries to maintain stability
+  - **When:** 1904
+  - **Where:** The Caribbean and Central America
+  - **Why:** To counter European intervention and protect American strategic interests
+  - **Significance:** Justified numerous U.S. interventions in Latin America and marked a shift toward proactive imperialism
+
+- **Big Stick Diplomacy**
+  - **Who:** President Theodore Roosevelt
+  - **What:** A foreign policy based on negotiating peacefully while simultaneously displaying military strength
+  - **When:** Early 20th century
+  - **Where:** Globally, with a focus on Latin America and the Caribbean
+  - **Why:** To deter potential adversaries without resorting to constant warfare
+  - **Significance:** Became a hallmark of U.S. imperial power and influenced subsequent American foreign policy
+
+- **Wilson & Mexico**
+  - **Who:** President Woodrow Wilson and Mexican political figures (e.g., Porfirio Díaz, Francisco Madero)
+  - **What:** U.S. interventions in Mexico intended to protect American interests while ostensibly refraining from outright colonization
+  - **When:** Early 20th century (notably during the Mexican Revolution, 1910–1920)
+  - **Where:** Mexico
+  - **Why:** To stabilize the region and safeguard economic and security interests in the face of political upheaval
+  - **Significance:** Demonstrated the U.S. willingness to intervene in neighboring countries even under a policy of non-colonization
+
+- **World War I and U.S. Involvement**
+  - **Causes of WWI (M-A-N-I-A)**
+    - **Militarism:** Nations built large armies and advanced weaponry; boredom and desire for power led to “big boi” weapons
+      - **Who:** European powers, indirectly affecting U.S. interests
+      - **What/When/Where:** Early 20th century; Europe
+      - **Why:** Arms buildup contributed to an atmosphere of suspicion and competition
+      - **Significance:** Set the stage for a global conflict
+    - **Alliances:** Formation of the Triple Alliance (Germany, Austro-Hungary, Italy) versus the Triple Entente (Britain, France, Russia)
+    - **Nationalism:** Extreme pride and jingoism fueled rivalries among nations
+    - **Imperialism:** Competition over colonies (including use of Big Stick Diplomacy) increased tensions
+    - **Assassination:** The murder of Archduke Franz Ferdinand in 1914 sparked the war
+  - **U.S. Neutrality and Involvement**
+    - **Neutrality:** Initially, the U.S. sought to remain apart to later assert power in a post-war world
+      - **Who:** President Woodrow Wilson and U.S. policymakers
+      - **What/When/Where:** 1914–1917, primarily in Europe and the global economy
+      - **Why:** Economic interests and public sentiment favored neutrality at first
+      - **Significance:** Despite neutrality, U.S. banks and trade favored the Allies, indirectly aligning the U.S. against the Central Powers
+    - **Catalysts for Involvement**
+      - **Lusitania:** Sinking of a British ship carrying arms and civilians (including Americans) by German submarines in 1915
+      - **Unrestricted Submarine Warfare:** German policy that endangered American trade
+      - **Zimmerman Telegram:** A secret German message proposing a U.S.–Mexico conflict
+      - **National Defense Act:** Increased military preparedness before official U.S. entry
+      - **Significance:** These events pushed the U.S. to declare war in 1917, ending its neutrality
+
+- **Opposition to Involvement**
+  - **Who:** Groups in the West and Midwest, including Populists, Progressives, Socialists, and notable figures like William Jennings Bryan and Jane Addams
+  - **What:** Criticisms focused on domestic issues (e.g., women’s suffrage, labor rights) and a preference for isolationism
+  - **When/Where/Why/Significance:** Reflecting longstanding American debates over intervention versus focusing on internal reform
+
+- **War on the Homefront**
+  - **Government Mobilization**
+    - **War Industries Board**
+      - **Who:** Led by Bernard Baruch
+      - **What:** Directed military production and set prices
+      - **When:** During WWI
+      - **Where:** United States
+      - **Why:** To streamline production for the war effort
+      - **Significance:** Ensured rapid military mobilization and standardization of production
+    - **National War Labor Bond**
+      - **Who:** U.S. government under President Taft’s influence
+      - **What:** Program establishing an 8-hour workday, overtime bonuses, and equal pay for women
+      - **When:** During WWI
+      - **Where:** United States
+      - **Why:** To reduce strikes and maintain industrial productivity
+      - **Significance:** Demonstrated the government’s role in shaping labor relations during wartime
+    - **Food and Fuel Administrations**
+      - **Who:** Led by Herbert Hoover (Food) and Harry Garfield (Fuel)
+      - **What:** Programs to conserve food and fuel (e.g., Meatless Mondays, Wheatless Wednesdays)
+      - **When:** WWI period
+      - **Where:** United States
+      - **Why:** To ensure adequate supplies for the military and civilians
+      - **Significance:** Illustrated the use of government intervention to support the war effort
+    - **Finance Board and Committee on Public Information**
+      - **Who:** U.S. government officials including George Creel (propaganda)
+      - **What:** Encouraged war bond purchases and disseminated wartime propaganda
+      - **When:** During WWI
+      - **Where:** United States
+      - **Why:** To finance the war and build public support
+      - **Significance:** Strengthened national unity and war financing
+    - **Legal Measures**
+      - **Sedition Act, Schneck v. US, Abrams v. US**
+        - **Who:** U.S. government and the Supreme Court
+        - **What:** Laws and rulings limiting speech deemed dangerous or subversive
+        - **When:** WWI era
+        - **Where:** United States
+        - **Why:** To prevent dissent that might hinder the war effort
+        - **Significance:** Reflected tensions between civil liberties and national security
+  - **Social Changes**
+    - **Great Migration**
+      - **Who:** African Americans moving from the oppressive South
+      - **What:** Mass migration to northern cities for industrial jobs
+      - **When:** During WWI
+      - **Where:** From the Southern U.S. to cities like Chicago, Detroit, New York
+      - **Why:** To escape Jim Crow laws and seek economic opportunities
+      - **Significance:** Transformed urban demographics and laid the foundation for the Civil Rights Movement
+    - **Women’s Suffrage**
+      - **Who:** Activists like Carrie Chapman Catt and Alice Paul; supported by President Woodrow Wilson
+      - **What:** Movement that secured the right to vote for women
+      - **When:** Culminated in the 19th Amendment (1919/1920)
+      - **Where:** United States
+      - **Why:** Recognized women’s contributions to the war effort and broader social justice concerns
+      - **Significance:** Marked a major expansion of democratic rights in America
+
+- **Peace Initiatives**
+  - **Fourteen Points**
+    - **Who:** President Woodrow Wilson
+    - **What:** A set of principles for peace and self-determination
+    - **When:** 1918
+    - **Where:** Presented to Congress, aimed at Europe
+    - **Why:** To create a lasting peace after WWI and prevent future conflicts
+    - **Significance:** Influenced the postwar order despite many points being compromised
+  - **League of Nations**
+    - **Who:** Proposed by Wilson; intended for global governance
+    - **What:** An international organization to prevent future wars
+    - **When:** Founded in 1920 (though the U.S. never joined)
+    - **Where:** International
+    - **Why:** To provide a forum for resolving international disputes peacefully
+    - **Significance:** Its failure, partly due to U.S. non-participation, influenced later the United Nations
+  - **Treaty of Versailles**
+    - **Who:** Allied Powers and Germany
+    - **What:** Treaty ending WWI and imposing harsh penalties on Germany
+    - **When:** Signed in 1919
+    - **Where:** Versailles, France
+    - **Why:** To punish Germany and redraw the map of Europe
+    - **Significance:** Its punitive terms contributed to future instability and were later rejected by a Republican Congress that opposed foreign entanglements
+  - **Reservationists**
+    - **Who:** A faction of Republicans led by Senator Henry Cabot Lodge
+    - **What:** Advocated for amendments to the League of Nations treaty
+    - **When:** Early 1920s
+    - **Where:** U.S. Senate
+    - **Why:** To protect U.S. sovereignty and avoid commitments that would limit American freedom in foreign policy
+    - **Significance:** Their opposition helped shape U.S. isolationist policies in the interwar period
+
+*Summary of Chapter 21:*  
+This chapter explains how the U.S. moved from a nation of continental expansion to one asserting imperial power overseas. Debates over imperialism—fueled by ideologies of American exceptionalism and the “white man’s burden”—led to military engagements (the Spanish–American War), territorial acquisitions (Hawaii, Philippines), and an evolving role in global affairs. Simultaneously, the U.S. grappled with the decision to engage in World War I, balancing domestic pressures with international ambitions.
+
+---
+
+## Chapter 22: The Roaring 20’s
+
+- **Legacy of WWI**
+  - **Who:** American society influenced by returning veterans and war experiences
+  - **What:** Lingering impacts on culture, politics, and economics after the war
+  - **When:** Post-1918 through the 1920s
+  - **Where:** United States and its global economic networks
+  - **Why:** War reshaped societal norms, accelerated technological change, and sparked debates over democracy and inequality
+  - **Significance:** Set the stage for dramatic cultural and economic shifts in the 1920s
+
+- **Causes of Racial Tensions**
+  - **Who:** Predominantly white working-class citizens and newly arriving African Americans from the Great Migration
+  - **What:** Increased competition for jobs and housing led to white violence against African Americans
+  - **When:** 1910s through the 1920s
+  - **Where:** Urban centers in the North and Midwest
+  - **Why:** Economic clout gained by African Americans upset existing racial hierarchies
+  - **Significance:** Fueled racial animosity and laid the groundwork for the later Civil Rights Movement
+
+- **Labor Unions**
+  - **Who:** Organized workers and labor leaders in industrial sectors
+  - **What:** Growth of unions influenced by government policies (e.g., National War Labor Board)
+  - **When:** During and after WWI, especially in the 1920s
+  - **Where:** Throughout the United States, particularly in industrial cities
+  - **Why:** To secure better wages, hours, and working conditions in the face of rising competition from non-white workers
+  - **Significance:** Highlighted tensions between labor and management and set legal precedents (e.g., Adkins v. Children's Hospital)
+  
+- **Adkins v. Children's Hospital**
+  - **Who:** U.S. Supreme Court; case involving child labor regulations
+  - **What:** A decision that struck down minimum wage laws for women in Washington, D.C.
+  - **When:** 1923
+  - **Where:** Washington, D.C.
+  - **Why:** Based on arguments for laissez-faire economics
+  - **Significance:** Demonstrated judicial resistance to government intervention in labor markets
+
+- **Welfare Capitalism**
+  - **Who:** Progressive industrialists (e.g., Henry Ford)
+  - **What:** Corporate practices that provided benefits (like a $5 workday, health care, and recreational facilities) to workers
+  - **When:** 1920s
+  - **Where:** Major industrial enterprises in the U.S.
+  - **Why:** To preempt unionization and foster employee loyalty
+  - **Significance:** Reflected a shift in labor relations and the role of employers in social welfare
+
+- **Red Scare**
+  - **Who:** U.S. government and nativist groups, under figures like Eugene Palmer
+  - **What:** A period of intense fear of communism, fascism, and anarchism
+  - **When:** Early 1920s (first Red Scare) with echoes throughout the decade
+  - **Where:** United States
+  - **Why:** Stemming from the Bolshevik Revolution and labor unrest
+  - **Significance:** Led to government crackdowns (Palmer Raids) and set a precedent for anti-communist policies
+
+- **ERA and Related Legislation**
+  - **Sheppard-Towner Maternity and Infancy Act**
+    - **Who:** U.S. Congress; advocates for women’s health
+    - **What:** Legislation providing federal funds for maternal and infant health programs
+    - **When:** 1921
+    - **Where:** United States
+    - **Why:** To reduce infant mortality and improve maternal health
+    - **Significance:** Represented early federal intervention in public health
+  - **Equal Rights Amendment (ERA)**
+    - **Who:** Feminist activists led by Alice Paul and organizations like NOW
+    - **What:** A proposed constitutional amendment to guarantee equal rights regardless of sex
+    - **When:** Debated from the 1920s onward; not ratified until later decades
+    - **Where:** United States
+    - **Why:** To end legal discrimination against women
+    - **Significance:** Became a rallying point for the women’s rights movement
+  - **Women's International League for Peace and Freedom**
+    - **Who:** Led by Jane Addams and other progressive women
+    - **What:** An organization fighting against imperialism and for global peace
+    - **When:** Founded in the early 20th century, active during the 1920s
+    - **Where:** United States and internationally
+    - **Why:** To promote diplomacy and social reforms in a militarized world
+    - **Significance:** Illustrated the intersection of women’s rights with peace activism
+
+- **Teapot Dome Scandal**
+  - **Who:** Involved government officials during the Harding administration
+  - **What:** A bribery scandal over the leasing of federal oil reserves
+  - **When:** Early 1920s
+  - **Where:** U.S. oil fields, notably in Wyoming
+  - **Why:** Reflects corruption and the excesses of laissez-faire policies
+  - **Significance:** Eroded public trust in government and spurred calls for reform
+
+- **Dollar Diplomacy**
+  - **Who:** U.S. policymakers such as Samuel Inman
+  - **What:** The use of financial power (loans, investments) to extend American influence abroad
+  - **When:** Early 20th century, particularly during the 1920s
+  - **Where:** International markets, notably in Latin America and Asia
+  - **Why:** To promote stability and protect U.S. economic interests without direct military intervention
+  - **Significance:** Although controversial, it set a precedent for economic tools in foreign policy
+
+- **Cultural Conflict and Prohibition**
+  - **Prohibition (18th Amendment)**
+    - **Who:** Supported by Protestant nativists and women’s groups
+    - **What:** A nationwide ban on the manufacture, sale, and transport of alcohol
+    - **When:** 1920–1933
+    - **Where:** United States
+    - **Why:** Promoted moral values, public health, and social order
+    - **Significance:** Led to the rise of speakeasies, organized crime, and eventual repeal
+  - **ACLU & Scopes Trial**
+    - **Who:** Fundamentalists led by William Jennings Bryan versus proponents of evolutionary science
+    - **What:** The Scopes Trial tested the legality of teaching evolution in schools
+    - **When:** 1925
+    - **Where:** Dayton, Tennessee
+    - **Why:** Highlighted tensions between modern scientific thought and traditional religious beliefs
+    - **Significance:** Reinforced the influence of religion in American politics, especially in the South
+  - **Nativism and the National Origins Act**
+    - **Who:** U.S. lawmakers and nativist groups
+    - **What:** Legislation setting quotas based on national origins
+    - **When:** 1924
+    - **Where:** United States
+    - **Why:** To restrict immigration from non-Western European countries
+    - **Significance:** Shaped the ethnic composition of the U.S. and fueled anti-immigrant sentiments
+  - **Resurgence of the KKK**
+    - **Who:** White supremacist groups
+    - **What:** The revival of the Ku Klux Klan, now targeting not only African Americans but also Jews, Catholics, and immigrants
+    - **When:** 1920s
+    - **Where:** Across the United States, particularly in the South and Midwest
+    - **Why:** Fueled by racial and cultural anxieties during the period of rapid social change
+    - **Significance:** Reflected and reinforced racial tensions that would have lasting political consequences
+
+- **Results of the Great Migration**
+  - **Harlem Renaissance**
+    - **Who:** African American writers, artists, and musicians (e.g., Claude McKay, Jean Toomer)
+    - **What:** A cultural, social, and artistic explosion in Harlem, New York
+    - **When:** 1920s
+    - **Where:** Harlem, New York City
+    - **Why:** Fueled by the migration of African Americans to urban centers and a newfound sense of identity
+    - **Significance:** Transformed African American culture and had a lasting impact on American art and literature
+  - **Jazz**
+    - **Who:** Musicians such as Louis Armstrong and Duke Ellington
+    - **What:** A musical genre that blended African American musical traditions with modern forms
+    - **When:** 1920s
+    - **Where:** United States, with strong roots in New Orleans, Chicago, and New York
+    - **Why:** Became a symbol of modernity and cultural innovation
+    - **Significance:** Helped bridge racial divides culturally, even as segregation persisted
+  - **UNIA and Pan-Africanism**
+    - **Who:** Leaders like Marcus Garvey
+    - **What:** Movements advocating for black pride, self-reliance, and global unity among people of African descent
+    - **When:** 1920s
+    - **Where:** United States and internationally
+    - **Why:** As a response to systemic racism and inequality in America
+    - **Significance:** Influenced later civil rights activism and debates over black nationalism
+  - **Lost Generation**
+    - **Who:** Writers and intellectuals such as John Dos Passos and Ernest Hemingway
+    - **What:** A term describing disillusioned postwar writers critical of modern life
+    - **When:** 1920s
+    - **Where:** Primarily in Europe and America
+    - **Why:** Their work critiqued materialism, consumerism, and the moral decay of modern society
+    - **Significance:** Shaped literary and cultural criticism in the decades that followed
+
+- **Economic Developments**
+  - **Post-WWI Recession and Recovery**
+    - **Who:** U.S. policymakers (e.g., President Harding)
+    - **What:** Economic policies that reduced taxes and raised tariffs (Fordney-McCumber Tariff)
+    - **When:** Early 1920s
+    - **Where:** United States
+    - **Why:** To stimulate recovery and stabilize government revenue
+    - **Significance:** Set the stage for a consumer boom but also contributed to imbalances that later led to the Great Depression
+  - **Consumer Culture and Credit**
+    - **Who:** American consumers and financial institutions
+    - **What:** Expansion of consumer credit systems and mass-market consumer goods
+    - **When:** 1920s
+    - **Where:** United States
+    - **Why:** Economic prosperity and mass production techniques increased consumption
+    - **Significance:** Redefined American lifestyles and contributed to speculative financial bubbles
+  - **Automobile and Hollywood**
+    - **Who:** Major companies like Ford and film studios such as Paramount
+    - **What:** The automobile became a symbol of prosperity; Hollywood emerged as a dominant cultural force
+    - **When:** 1920s
+    - **Where:** United States, especially in Detroit and Los Angeles
+    - **Why:** Innovations in production and media reached mass audiences
+    - **Significance:** Boosted the economy, reshaped urban planning (suburbs), and influenced national culture
+  - **Great Depression**
+    - **Who:** Affected the entire U.S. population
+    - **What:** A severe economic downturn triggered by over-speculation, excessive borrowing, and structural weaknesses
+    - **When:** 1929–late 1930s
+    - **Where:** United States, with global repercussions
+    - **Why:** Collapse of stock market confidence, unequal income distribution, and credit imbalances
+    - **Significance:** Forced a dramatic reevaluation of economic policy and paved the way for the New Deal
+
+*Summary of Chapter 22:*  
+The Roaring 20s were a time of cultural exuberance and economic growth that masked deep-seated racial tensions, labor conflicts, and financial imbalances. While technological and consumer innovations transformed American society, these same forces contributed to a precarious economic situation that ultimately led to the Great Depression.
+
+---
+
+## Chapter 23: The Great Depression
+
+- **Causes of the Great Depression**
+  - **Who:** Economic actors including investors, banks, and policymakers
+  - **What:** A combination of stock market collapse, over-speculation, excessive credit, uneven income distribution, and overproduction
+  - **When:** Late 1920s (Wall Street Crash of 1929) and early 1930s
+  - **Where:** United States, with global economic effects
+  - **Why:** Structural flaws in the economy and laissez-faire policies contributed to instability
+  - **Significance:** Marked the most severe economic crisis in U.S. history, reshaping government policy and society
+
+- **Effects of the Great Depression**
+  - **Who:** U.S. citizens, businesses, and banks
+  - **What:** Dramatic drops in GDP, mass unemployment (up to 25%), widespread poverty, and banking failures
+  - **When:** 1930s
+  - **Where:** United States
+  - **Why:** Economic collapse and insufficient regulatory oversight
+  - **Significance:** Led to a loss of faith in the existing economic system and spurred major political realignments
+
+- **Hoover’s Policies**
+  - **Who:** President Herbert Hoover
+  - **What:** Minimal intervention policies based on belief in self-recovery and voluntary efforts
+  - **When:** 1929–1932
+  - **Where:** United States
+  - **Why:** Ideological commitment to limited government intervention
+  - **Significance:** Widely seen as ineffective, contributing to his defeat in the 1932 election
+
+- **Hawley-Smoot Tariff**
+  - **Who:** U.S. Congress and President Hoover’s administration
+  - **What:** A tariff imposing extremely high rates (up to 50%) on imported goods
+  - **When:** Enacted in 1930
+  - **Where:** United States trade policy
+  - **Why:** Intended to protect American industries but triggered retaliatory tariffs abroad
+  - **Significance:** Deepened the global economic downturn and worsened the depression
+
+- **Debt Moratorium**
+  - **Who:** Affected European economies and U.S. creditors
+  - **What:** Suspension of war debt repayments under the Dawes Plan
+  - **When:** Early 1930s
+  - **Where:** International economic policy
+  - **Why:** European countries were unable to meet debt obligations amid the depression
+  - **Significance:** Highlighted global interdependence and the severity of the economic crisis
+
+- **Federal Farm Board**
+  - **Who:** U.S. government under the Hoover and early FDR administrations
+  - **What:** A program designed to stabilize agricultural prices by storing surplus produce
+  - **When:** Initiated in 1929, used more after 1931
+  - **Where:** Rural United States
+  - **Why:** To support struggling farmers and stabilize the agricultural economy
+  - **Significance:** Its modest success reflected the limitations of early depression policies
+
+- **Reconstruction Finance Corporation (RFC)**
+  - **Who:** U.S. government during the early 1930s
+  - **What:** A program to provide emergency loans to banks, railroads, and other industries
+  - **When:** 1932
+  - **Where:** United States
+  - **Why:** To prop up key financial institutions during the depression
+  - **Significance:** Criticized for primarily benefiting large institutions rather than providing widespread relief
+
+- **Protests and Political Shifts**
+  - **Farmers’ Protest (Farm Holiday Association)**
+    - **Who:** Midwest farmers
+    - **What:** An effort to stop production in order to drive up prices
+    - **When:** Early 1930s
+    - **Where:** Rural Midwest
+    - **Why:** To combat falling agricultural prices
+    - **Significance:** Highlighted the desperation and radical economic ideas emerging during the depression
+  - **Bonus March**
+    - **Who:** WWI veterans
+    - **What:** A protest in Washington, D.C. demanding immediate bonus payments
+    - **When:** 1932
+    - **Where:** Washington, D.C.
+    - **Why:** Veterans sought financial relief after years of service
+    - **Significance:** Contributed to the public perception of Hoover’s inaction and fueled support for FDR
+  - **Election of 1932**
+    - **Who:** U.S. electorate; Franklin D. Roosevelt (Democrat) vs. Herbert Hoover (Republican)
+    - **What:** A landslide victory for FDR
+    - **When:** 1932
+    - **Where:** United States
+    - **Why:** Widespread discontent with Hoover’s policies
+    - **Significance:** Marked a turning point in American politics and the start of the New Deal era
+  - **20th Amendment ("Lame Duck Amendment")**
+    - **Who:** U.S. Congress
+    - **What:** Shortened the period between presidential elections and inaugurations
+    - **When:** Ratified in 1933
+    - **Where:** United States
+    - **Why:** To reduce the time a defeated president remains in office
+    - **Significance:** Reflected the demand for quicker governmental responsiveness during crisis
+
+- **New Deal and Its Components**
+  - **Eleanor Roosevelt**
+    - **Who:** First Lady, influential in promoting New Deal programs
+    - **What:** A leading advocate for social reform and women’s rights
+    - **When:** 1933–1945
+    - **Where:** United States
+    - **Why:** Used her position to push for expanded government support for the vulnerable
+    - **Significance:** Helped humanize and popularize the New Deal’s reforms
+  - **Brain Trust**
+    - **Who:** A diverse group of advisors including Jews, women, and African Americans
+    - **What:** Counsel to FDR on designing New Deal policies
+    - **When:** Early New Deal years (1933 and beyond)
+    - **Where:** Washington, D.C.
+    - **Why:** To generate innovative solutions to the economic crisis
+    - **Significance:** Instrumental in shaping the expansive and transformative New Deal
+  - **First 100 Days**
+    - **Who:** FDR and the Democratic Congress
+    - **What:** A period of rapid legislative action that created numerous "Alphabet Agencies" (e.g., WPA, AAA, CCC, NRA)
+    - **When:** 1933
+    - **Where:** United States
+    - **Why:** To provide immediate relief, recovery, and reform during the depression
+    - **Significance:** Set a benchmark for executive action in times of crisis
+  - **Fireside Chats and Bank Holiday**
+    - **Who:** FDR
+    - **What:** Radio addresses that explained New Deal measures and a temporary bank closure to stabilize the financial system
+    - **When:** 1933
+    - **Where:** United States
+    - **Why:** To restore public confidence and ensure bank solvency
+    - **Significance:** Helped rebuild trust in government and the banking system
+  - **Repeal of Prohibition**
+    - **Who:** U.S. Congress and FDR
+    - **What:** The 21st Amendment, ending the nationwide ban on alcohol
+    - **When:** 1933
+    - **Where:** United States
+    - **Why:** To generate federal tax revenue and address widespread non-compliance
+    - **Significance:** Marked a shift in federal priorities and contributed to economic recovery
+  - **The Three R’s of the New Deal**
+    - **Relief:** Emergency programs (FERA, PWA, CCC, TVA) to provide immediate aid and job creation
+    - **Recovery:** Programs like HOLC and Farm Credit Administration to stabilize and rebuild the economy
+    - **Reform:** Legislative measures (Glass-Steagall Act, FDIC, Social Security Act) to prevent future depressions
+    - **Significance:** Redefined the role of government in the economy and laid the foundation for modern social safety nets
+
+*Summary of Chapter 23:*  
+The Great Depression, triggered by financial imbalances and speculative excesses, devastated the U.S. economy and altered the political landscape. Hoover’s ineffective policies gave way to FDR’s New Deal—a comprehensive suite of relief, recovery, and reform programs that reshaped American economic, social, and political life, despite fierce opposition and mixed results.
+
+---
+
+## Chapter 24: World War II
+
+- **Fascism**
+  - **Who:** Dictators such as Adolf Hitler (Germany), Benito Mussolini (Italy), and Hideki Tojo (Japan)
+  - **What:** An authoritarian, anti-democratic ideology promoting aggressive nationalism and expansionism
+  - **When:** Emerged in the 1920s and rose to prominence in the 1930s
+  - **Where:** Primarily in Germany, Italy, and Japan
+  - **Why:** Fueled by grievances over the Treaty of Versailles and economic instability
+  - **Significance:** Set the stage for global conflict in World War II
+
+- **Nye Committee**
+  - **Who:** A U.S. congressional committee led by Senator Gerald Nye
+  - **What:** Investigated the role of arms manufacturers in propelling the U.S. into WWI
+  - **When:** Early 1930s
+  - **Where:** United States
+  - **Why:** To expose how war profiteering contributed to the conflict
+  - **Significance:** Reinforced isolationist sentiment in the interwar period
+
+- **Neutrality Acts (1935–1937)**
+  - **Who:** U.S. Congress
+  - **What:** Legislation designed to prevent the U.S. from becoming involved in foreign wars by banning arms sales and loans to warring nations
+  - **When:** Mid-1930s
+  - **Where:** United States
+  - **Why:** To avoid the mistakes that led to U.S. involvement in WWI
+  - **Significance:** Established a policy of non-intervention that was later challenged by global events
+
+- **Debates over Isolation vs. Intervention**
+  - **Arguments for Isolation**
+    - **Who:** Predominantly conservatives and groups like the America First Committee
+    - **What:** Advocated for non-involvement in European conflicts
+    - **When:** Late 1930s
+    - **Where:** United States
+    - **Why:** Belief that U.S. should focus on domestic recovery and avoid foreign entanglements
+    - **Significance:** Influenced early U.S. policies prior to Pearl Harbor
+  - **Arguments for Intervention**
+    - **Who:** Interventionists and some progressive factions
+    - **What:** Urged for active support for Allies against fascism
+    - **When:** Late 1930s
+    - **Where:** United States and among Allied nations
+    - **Why:** Rising global aggression and economic ties to Allies pressured U.S. to act
+    - **Significance:** Paved the way for policies like Lend-Lease
+
+- **Early U.S. Involvement and Shifts**
+  - **Early Preparations**
+    - **Who:** FDR and his advisors
+    - **What:** Initiatives such as the National Defense Advisory Commission and arms trade with Britain
+    - **When:** Late 1930s
+    - **Where:** United States
+    - **Why:** To build military readiness in anticipation of conflict
+    - **Significance:** Marked a gradual shift away from strict neutrality
+  - **Election of 1940**
+    - **Who:** FDR versus Wendell Willkie
+    - **What:** FDR’s third-term victory amid increasing global crisis
+    - **When:** 1940
+    - **Where:** United States
+    - **Why:** Rising threat of fascism and domestic support for intervention
+    - **Significance:** Strengthened FDR’s mandate to prepare the nation for war
+  - **"Four Freedoms" Speech**
+    - **Who:** FDR
+    - **What:** A speech outlining essential human freedoms (speech, religion, freedom from fear, and from want)
+    - **When:** 1941
+    - **Where:** United States, broadcast nationally
+    - **Why:** To inspire and justify U.S. participation in the global fight against tyranny
+    - **Significance:** Helped build support for the Allied cause and redefined American values
+  - **Shift Away from Neutrality**
+    - **Lend-Lease Act**
+      - **Who:** U.S. Congress and FDR
+      - **What:** Policy allowing allies to borrow arms and supplies
+      - **When:** 1941
+      - **Where:** United States
+      - **Why:** To support Allied nations without direct military involvement
+      - **Significance:** Marked a critical step toward U.S. engagement in WWII
+    - **Atlantic Charter**
+      - **Who:** FDR and Winston Churchill
+      - **What:** Joint declaration outlining postwar goals for self-determination, economic cooperation, and peace
+      - **When:** 1941
+      - **Where:** Atlantic Ocean, during a conference at sea
+      - **Why:** To set common goals for the postwar world
+      - **Significance:** Laid the ideological foundation for the United Nations and postwar reconstruction
+  - **Pearl Harbor**
+    - **Who:** Japanese military under Admiral Tojo
+    - **What:** Surprise attack on the U.S. naval base at Pearl Harbor
+    - **When:** December 7, 1941
+    - **Where:** Pearl Harbor, Hawaii
+    - **Why:** Aimed to neutralize the U.S. Pacific Fleet and deter American interference in Japan’s expansion
+    - **Significance:** Provoked the U.S. declaration of war, uniting the nation and ending isolationism
+
+- **War on the Homefront**
+  - **Economic Mobilization**
+    - **Revenue Act of 1942 and War Production Board**
+      - **Who:** U.S. government and industries
+      - **What:** Policies to expand production and mobilize resources for war
+      - **When:** Early 1940s
+      - **Where:** United States
+      - **Why:** To support the war effort by converting factories and boosting production
+      - **Significance:** Ended the Great Depression and transformed the U.S. economy into a wartime powerhouse
+  - **Military Mobilization**
+    - **Who:** Over 50 million Americans enlisted across all demographics
+    - **What:** Mass mobilization of the military and support for the war effort
+    - **When:** 1941–1945
+    - **Where:** United States and overseas battlefields
+    - **Why:** To meet the demands of a global conflict
+    - **Significance:** Demonstrated national unity and reshaped American society by integrating diverse groups
+  - **Social and Cultural Impacts**
+    - **Women’s Involvement**
+      - **Who:** Women joining the Women’s Army Corps (WAC), WAVES, and WASPs; symbolized by “Rosie the Riveter”
+      - **What:** Increased participation of women in the workforce and military support roles
+      - **When:** 1941–1945
+      - **Where:** Across the United States
+      - **Why:** Labor shortages and the need for wartime production opened new opportunities
+      - **Significance:** Accelerated social change regarding gender roles
+    - **African American Initiatives**
+      - **Double V Campaign and Executive Order 8802**
+        - **Who:** African American leaders and FDR
+        - **What:** Campaign for victory over fascism abroad and racial discrimination at home
+        - **When:** During WWII
+        - **Where:** United States
+        - **Why:** To demand equality and fair treatment in employment and society
+        - **Significance:** Laid groundwork for the postwar Civil Rights Movement
+    - **Mexican American and Other Minority Contributions**
+      - **Bracero Program**
+        - **Who:** Mexican laborers and U.S. government
+        - **What:** A program to secure agricultural labor from Mexico
+        - **When:** 1942–1964
+        - **Where:** Primarily in the American Southwest
+        - **Why:** To address labor shortages due to the war
+        - **Significance:** Influenced later immigration debates and civil rights issues for Mexican Americans
+    - **Internment of Japanese Americans**
+      - **Who:** Japanese American citizens and the U.S. government (under Executive Order 9066)
+      - **What:** Forced relocation and internment during WWII
+      - **When:** 1942–1945
+      - **Where:** Internment camps across the western United States
+      - **Why:** Fueled by wartime hysteria and racial prejudice following Pearl Harbor
+      - **Significance:** Remains a stark reminder of civil liberties violations in times of crisis
+
+- **Major Military Campaigns and Innovations**
+  - **D-Day**
+    - **Who:** Allied forces under General Dwight D. Eisenhower
+    - **What:** The massive amphibious invasion of Normandy
+    - **When:** June 6, 1944
+    - **Where:** Normandy, France
+    - **Why:** To establish a Western front against Nazi Germany
+    - **Significance:** A turning point in the European theater that led to the liberation of Western Europe
+  - **Battle of Midway**
+    - **Who:** U.S. Navy vs. Imperial Japanese Navy
+    - **What:** A decisive naval battle in the Pacific
+    - **When:** June 1942
+    - **Where:** Near Midway Atoll in the Pacific Ocean
+    - **Why:** To halt Japanese expansion and secure U.S. dominance in the Pacific
+    - **Significance:** Marked a turning point in the Pacific War
+  - **Manhattan Project and Atomic Bombings**
+    - **Who:** U.S. government and scientists under leaders like J. Robert Oppenheimer
+    - **What:** Development of nuclear weapons and their use on Hiroshima and Nagasaki
+    - **When:** 1942–1945 (bombings in August 1945)
+    - **Where:** Secret research sites in the U.S.; bombings in Japan
+    - **Why:** To force a rapid end to the war by compelling Japan’s surrender
+    - **Significance:** Ended WWII and ushered in the nuclear age, fundamentally altering global military and political dynamics
+  - **Costs of War**
+    - **Who:** U.S. society and the global community
+    - **What:** Immense human casualties, destruction of infrastructure, and economic disruption
+    - **When:** Throughout WWII (1939–1945)
+    - **Where:** Europe, Asia, and the Pacific
+    - **Why:** The total war effort demanded massive resources and led to widespread devastation
+    - **Significance:** Cemented the U.S. emergence as a superpower and set the stage for postwar reconstruction and the Cold War
+
+*Summary of Chapter 24:*  
+World War II forced the United States to abandon its isolationist stance and mobilize its entire society—economically, militarily, and culturally—for a total war effort. The conflict not only reshaped the global balance of power but also had profound domestic implications, including expanded roles for minorities and women, significant civil liberties challenges, and lasting technological and military innovations.
+
+---
+
+## Overall Summary of Unit 7
+- **Time Frame:** Late 1890s to 1945
+- **Key Themes:**
+  - **Imperialism:** Debates over expanding American power overseas led to military conflicts (Spanish–American War), territorial acquisitions (Hawaii, Philippines), and an evolving role in global affairs.
+  - **The Roaring 20’s:** A period of cultural and economic transformation marked by postwar prosperity, racial tensions from the Great Migration, and significant social changes, but also setting the stage for economic collapse.
+  - **The Great Depression:** An economic cataclysm that reshaped the U.S. economy and political landscape, leading to the New Deal—a comprehensive set of policies aimed at relief, recovery, and reform.
+  - **World War II:** A total war that ended American isolationism, catalyzed enormous domestic mobilization, and established the U.S. as a global superpower while fundamentally altering social and political structures.
+
+# Unit 8: 1945–1980
+
+## Chapter 25: Cold War
+
+- **WWII Conferences**
+  - **Yalta Conference**
+    - **Who:** Leaders FDR (USA), Churchill (GB), and Stalin (USSR)
+    - **What:** A meeting to plan postwar reorganization and the fate of Europe
+    - **When:** February 1945
+    - **Where:** Yalta, Crimea
+    - **Why:** To secure Soviet assistance in the war against Japan and to discuss postwar reconstruction
+    - **Significance:** Laid the groundwork for the division of Europe and the formation of the United Nations
+  - **Potsdam Conference**
+    - **Who:** Truman (USA), Churchill/Attlee (GB), and Stalin (USSR)
+    - **What:** A summit to finalize the terms of Japan’s surrender and address the fate of Eastern Europe
+    - **When:** July–August 1945
+    - **Where:** Potsdam, Germany
+    - **Why:** To enforce unconditional surrender of Japan and set postwar boundaries in Europe
+    - **Significance:** Deepened US–USSR tensions as divergent visions for postwar Europe emerged
+
+- **Containment Policy**
+  - **Who:** U.S. policymakers led by George F. Kennan
+  - **What:** A strategy to prevent the spread of communism beyond its existing borders
+  - **When:** Articulated in 1947; implemented throughout the Cold War
+  - **Where:** Global strategy primarily aimed at Soviet influence in Europe, Asia, and beyond
+  - **Why:** Belief that communism would eventually collapse if contained
+  - **Significance:** Became the cornerstone of U.S. Cold War foreign policy
+
+- **Truman Doctrine**
+  - **Who:** President Harry S. Truman
+  - **What:** A policy declaring American support for countries resisting communism
+  - **When:** 1947
+  - **Where:** Initially applied to Greece and Turkey
+  - **Why:** To support free peoples and prevent the spread of Soviet influence
+  - **Significance:** Marked the beginning of active U.S. intervention abroad and the global struggle against communism
+
+- **Marshall Plan**
+  - **Who:** U.S. Secretary of State George Marshall
+  - **What:** A massive economic aid program for the reconstruction of Europe
+  - **When:** 1948–1952
+  - **Where:** Western Europe
+  - **Why:** To rebuild war-torn economies, stabilize democratic governments, and reduce the appeal of communism
+  - **Significance:** Strengthened U.S. economic and political influence while increasing tensions with the USSR
+
+- **Military Alliances**
+  - **NATO**
+    - **Who:** United States and Western European nations (GB, France, Italy, etc.)
+    - **What:** A collective defense pact
+    - **When:** Established in 1949
+    - **Where:** North Atlantic region
+    - **Why:** To provide mutual security against Soviet aggression
+    - **Significance:** Solidified the division of Europe and institutionalized U.S. leadership in the West
+  - **Warsaw Pact**
+    - **Who:** USSR and Eastern Bloc countries
+    - **What:** A collective defense treaty as a counter to NATO
+    - **When:** Established in 1955
+    - **Where:** Eastern Europe
+    - **Why:** To consolidate Soviet control and coordinate military responses among its allies
+    - **Significance:** Deepened East–West divisions and intensified the arms race
+
+- **NSC-68**
+  - **Who:** U.S. National Security Council under Truman
+  - **What:** A strategic policy document calling for a massive military buildup against the USSR
+  - **When:** Published in 1950
+  - **Where:** United States
+  - **Why:** In response to the growing Soviet nuclear threat and global communist expansion
+  - **Significance:** Shifted U.S. policy from primarily economic measures to a focus on military deterrence and arms race
+
+- **Asian and Latin American Dimensions**
+  - **China & Japan**
+    - **Who:** U.S. policymakers and Asian leaders
+    - **What:** Policies including the “Open Door Policy” in China and support for Japan’s postwar reconstruction
+    - **When:** Late 1940s through 1950s
+    - **Where:** East Asia
+    - **Why:** To secure equal trade access in China and establish Japan as a bulwark against communism
+    - **Significance:** Shaped U.S. influence in Asia and contributed to Cold War realignments
+  - **US & Latin America**
+    - **Who:** U.S. government and Latin American governments
+    - **What:** Strategies for maintaining regional influence (e.g., Hay–Pauncefote Treaty, Roosevelt Corollary)
+    - **When:** Late 1940s–1950s
+    - **Where:** Caribbean and Central America
+    - **Why:** To safeguard U.S. strategic interests and prevent Soviet expansion
+    - **Significance:** Reinforced American hegemony in its hemisphere and set precedents for intervention
+
+- **Korean War**
+  - **Who:** U.S. forces under Truman and General Eisenhower; North Korea (with Soviet backing); South Korea (with U.N. backing)
+  - **What:** A military conflict arising from the division of Korea along the 38th Parallel
+  - **When:** 1950–1953
+  - **Where:** Korean Peninsula
+  - **Why:** North Korea invaded South Korea to unify the peninsula under a communist government
+  - **Significance:** Confirmed the global nature of the Cold War, reinforced U.S. military commitment in Asia, and set a precedent for limited wars without a formal declaration of war
+
+## Chapter 26: Triumph of the Middle Class
+
+- **Bretton Woods System**
+  - **Who:** Delegates at the Bretton Woods Conference (including U.S. representatives)
+  - **What:** Establishment of international financial institutions (World Bank and IMF)
+  - **When:** 1944
+  - **Where:** Bretton Woods, New Hampshire, USA
+  - **Why:** To create a stable global economic order after WWII
+  - **Significance:** Ensured U.S. economic influence worldwide and promoted postwar reconstruction
+
+- **Military Industrial Complex**
+  - **Who:** U.S. defense industry and government
+  - **What:** The combined power of the military and industries that supply defense needs
+  - **When:** Post-WWII, especially during the Cold War
+  - **Where:** United States
+  - **Why:** Massive defense spending fueled economic growth and technological innovation
+  - **Significance:** Became a key driver of economic prosperity and a symbol of U.S. global power
+
+- **Technological and Educational Advances**
+  - **Sputnik**
+    - **Who:** Launched by the USSR; influenced U.S. policymakers and scientists
+    - **What:** The first artificial satellite in space
+    - **When:** 1957
+    - **Where:** Earth’s orbit
+    - **Why:** Demonstrated Soviet technological capability and spurred the U.S. to invest in science and education
+    - **Significance:** Triggered the space race and led to significant investment in STEM education (e.g., National Defense Education Act)
+  - **National Defense Education Act**
+    - **Who:** U.S. Congress and President Eisenhower
+    - **What:** Legislation to strengthen education in science, technology, engineering, and math (STEM)
+    - **When:** 1958
+    - **Where:** United States
+    - **Why:** In response to the technological threat posed by Sputnik
+    - **Significance:** Bolstered U.S. competitiveness in technology and laid the foundation for future innovation
+
+- **Domestic Economic Transformation**
+  - **GI Bill & Veterans Administration**
+    - **Who:** U.S. veterans and federal government
+    - **What:** Programs providing education benefits, home loans, and other support to returning WWII and Korean War veterans
+    - **When:** Enacted after WWII (1944 onward)
+    - **Where:** United States
+    - **Why:** To help veterans reintegrate into civilian life and stimulate economic growth
+    - **Significance:** Expanded the middle class, increased home ownership, and spurred suburban development
+  - **Rise of Consumerism**
+    - **Who:** American middle-class families
+    - **What:** A dramatic increase in the consumption of durable goods, automobiles, and new technologies
+    - **When:** 1950s and 1960s
+    - **Where:** United States, especially in suburban areas
+    - **Why:** Economic prosperity, aided by mass production and consumer credit
+    - **Significance:** Redefined American lifestyles and solidified the economic power of the middle class
+
+- **Cultural Shifts**
+  - **Television and Youth Culture**
+    - **Who:** American families, advertisers, and youth
+    - **What:** The proliferation of TV reshaped cultural norms and introduced new consumer habits
+    - **When:** 1950s and 1960s
+    - **Where:** Across the United States
+    - **Why:** Advances in technology and a booming economy made TV accessible to most households
+    - **Significance:** Reinforced the American Dream and influenced identity, politics, and social trends
+
+## Chapter 27: Civil Rights
+
+- **Jim Crow Laws and Segregation**
+  - **Who:** State legislatures and local governments in the South
+  - **What:** Legalized racial segregation and disenfranchisement (poll taxes, literacy tests)
+  - **When:** Late 19th century through the mid-20th century
+  - **Where:** Southern United States; de facto segregation in the North
+  - **Why:** To maintain white supremacy and control over African Americans
+  - **Significance:** Institutionalized inequality and set the stage for the Civil Rights Movement
+
+- **Impact of WWII on Civil Rights**
+  - **Double V Campaign**
+    - **Who:** African Americans and civil rights activists
+    - **What:** A campaign for victory over fascism abroad and racism at home
+    - **When:** During WWII (1941–1945)
+    - **Where:** United States
+    - **Why:** To demand equal rights and recognition for African Americans
+    - **Significance:** Laid the moral and organizational groundwork for postwar civil rights activism
+  - **Executive Order 8802**
+    - **Who:** President Franklin D. Roosevelt
+    - **What:** Prohibited discrimination in defense industries
+    - **When:** 1941
+    - **Where:** United States
+    - **Why:** To mobilize all Americans for the war effort without racial barriers
+    - **Significance:** Marked the federal government’s first step toward civil rights reform
+
+- **Key Movements and Legislation**
+  - **Montgomery Bus Boycott**
+    - **Who:** African American community led by Rosa Parks and Martin Luther King Jr.
+    - **What:** A boycott of bus services to protest segregated seating
+    - **When:** 1955–1956
+    - **Where:** Montgomery, Alabama
+    - **Why:** To challenge racial segregation in public transportation
+    - **Significance:** Launched the modern Civil Rights Movement and elevated MLK as a national leader
+  - **Civil Rights Act of 1964**
+    - **Who:** U.S. Congress, championed by President Lyndon B. Johnson
+    - **What:** Legislation outlawing discrimination based on race, color, religion, sex, or national origin
+    - **When:** 1964
+    - **Where:** United States
+    - **Why:** To dismantle institutional segregation and ensure equal opportunities
+    - **Significance:** A landmark law that transformed American society and paved the way for further reforms
+  - **Voting Rights Act of 1965**
+    - **Who:** U.S. Congress under LBJ, supported by civil rights activists
+    - **What:** Legislation to eliminate barriers to African American voting
+    - **When:** 1965
+    - **Where:** United States, especially in the South
+    - **Why:** To enforce the 15th Amendment and secure voting rights
+    - **Significance:** Dramatically increased voter registration and participation among African Americans
+  - **Emergence of Black Nationalism**
+    - **Who:** Leaders like Malcolm X and organizations such as the Black Panther Party
+    - **What:** Movements advocating for self-reliance, racial pride, and sometimes separatism
+    - **When:** 1960s and early 1970s
+    - **Where:** Predominantly in urban centers across the U.S.
+    - **Why:** In response to persistent racial inequality and slow progress through nonviolent means
+    - **Significance:** Broadened the spectrum of strategies in the Civil Rights Movement and influenced subsequent activism
+
+- **Other Minority Movements**
+  - **Chicano Movement**
+    - **Who:** Mexican American activists led by figures like Cesar Chavez
+    - **What:** Advocacy for labor rights, political representation, and social justice for Mexican Americans
+    - **When:** 1960s–1970s
+    - **Where:** Southwestern United States
+    - **Why:** To combat economic exploitation and discrimination in labor and education
+    - **Significance:** Expanded the civil rights struggle to include Latino communities
+  - **Native American and Gay Liberation Movements**
+    - **Who:** Native American activists (AIM, Red Power) and early LGBTQ+ groups (Mattachine Society)
+    - **What:** Movements challenging discrimination and fighting for self-determination and rights
+    - **When:** 1960s–1970s
+    - **Where:** Throughout the U.S.
+    - **Why:** To secure equal rights and cultural recognition
+    - **Significance:** Laid the foundation for broader social justice reforms in subsequent decades
+
+## Chapter 28: Modern Era & Liberalism
+
+- **Domestic Liberal Reforms**
+  - **JFK’s Domestic Agenda**
+    - **Who:** President John F. Kennedy
+    - **What:** Proposed initiatives in health care, education, and tax reforms
+    - **When:** Early 1960s (cut short by his assassination in 1963)
+    - **Where:** United States
+    - **Why:** To modernize American society and address domestic inequalities
+    - **Significance:** Set the stage for subsequent reforms under LBJ
+  - **LBJ’s Great Society**
+    - **Who:** President Lyndon B. Johnson
+    - **What:** A sweeping set of domestic programs aimed at eliminating poverty and racial injustice
+    - **When:** Mid-1960s
+    - **Where:** United States
+    - **Why:** To fulfill the promise of civil rights and improve quality of life for all citizens
+    - **Significance:** Transformed American social policy with programs like Medicare, Medicaid, and HUD
+
+- **Immigration and Social Policy Changes**
+  - **Immigration Reform**
+    - **Who:** U.S. policymakers
+    - **What:** Changes that replaced restrictive quotas with numerical limits
+    - **When:** Late 1960s to 1970s
+    - **Where:** United States
+    - **Why:** To modernize immigration policy and promote family reunification
+    - **Significance:** Led to increased diversity in the U.S.
+  - **Women’s Movement**
+    - **Who:** Feminist leaders like Betty Friedan and organizations such as NOW
+    - **What:** Advocacy for equal rights and opportunities for women
+    - **When:** 1960s–1970s
+    - **Where:** United States
+    - **Why:** To challenge traditional gender roles and economic disparities
+    - **Significance:** Catalyzed legislative changes like the Equal Pay Act and propelled the fight for the ERA
+
+- **The Vietnam War and Its Impact**
+  - **Vietnam War Escalation**
+    - **Who:** U.S. presidents (JFK, LBJ) and military leaders; North Vietnamese forces led by Ho Chi Minh
+    - **What:** A prolonged conflict aimed at preventing the spread of communism in Southeast Asia
+    - **When:** U.S. involvement escalated from the early 1960s to the mid-1970s
+    - **Where:** Vietnam, with global implications
+    - **Why:** Driven by the Domino Theory and the desire to contain communism
+    - **Significance:** Led to widespread public dissent, a credibility gap for the government, and a major shift in U.S. foreign policy
+  - **Key Events and Policies**
+    - **Gulf of Tonkin Resolution**
+      - **Who:** U.S. Congress and President LBJ
+      - **What:** Authorized increased U.S. military involvement in Vietnam
+      - **When:** 1964
+      - **Where:** United States
+      - **Why:** In response to alleged attacks on U.S. naval vessels
+      - **Significance:** Marked the turning point for full-scale U.S. military intervention
+    - **Tet Offensive**
+      - **Who:** Viet Cong and North Vietnamese forces
+      - **What:** A series of surprise attacks during the Vietnamese New Year
+      - **When:** 1968
+      - **Where:** South Vietnam
+      - **Why:** To incite rebellion and shift American public opinion
+      - **Significance:** Eroded U.S. confidence and increased anti-war sentiment at home
+
+- **Political and Cultural Shifts**
+  - **New Left and Counterculture**
+    - **Who:** University students and young activists (e.g., SDS, Port Huron Statement authors)
+    - **What:** Movements opposing the Vietnam War, consumerism, and established political norms
+    - **When:** Late 1960s
+    - **Where:** University campuses and urban centers in the U.S.
+    - **Why:** A reaction to perceived social injustices and government mismanagement
+    - **Significance:** Sparked widespread protests and influenced future social movements
+  - **Assassinations and Political Turmoil**
+    - **Who:** Leaders like Martin Luther King Jr. and Robert F. Kennedy
+    - **What:** The tragic assassinations of major progressive figures
+    - **When:** 1968
+    - **Where:** United States
+    - **Why:** Political violence amid social unrest
+    - **Significance:** Deepened public disillusionment and reshaped the political landscape
+
+## Chapter 29: Era of Limits
+
+- **Economic Challenges and Energy Crisis**
+  - **Oil Crisis and OPEC Embargo**
+    - **Who:** Members of OPEC (Persian Gulf states) and the U.S. government
+    - **What:** An embargo on U.S. oil following U.S. support for Israel during the Yom Kippur War
+    - **When:** 1973
+    - **Where:** Global oil markets affecting the United States
+    - **Why:** To pressure the U.S. and capitalize on geopolitical power
+    - **Significance:** Led to skyrocketing oil prices, inflation, and stagflation, profoundly impacting the U.S. economy
+
+- **Environmental Movement**
+  - **Rise of Environmentalism**
+    - **Who:** Conservation groups (Sierra Club, Wilderness Society), inspired by works like Rachel Carson’s "Silent Spring"
+    - **What:** A public push for environmental protection and regulation
+    - **When:** Early 1970s
+    - **Where:** United States
+    - **Why:** Reaction to pollution, oil spills, and the negative impact of industrial growth
+    - **Significance:** Led to the creation of the EPA and a new era of environmental legislation
+  - **Nuclear Power and Three Mile Island**
+    - **Who:** U.S. nuclear industry and environmental activists
+    - **What:** The Three Mile Island accident raised public fears over nuclear energy safety
+    - **When:** 1979
+    - **Where:** Pennsylvania, USA
+    - **Why:** Concerns about radioactive leaks and long-term environmental damage
+    - **Significance:** Stymied the growth of nuclear power in the United States for decades
+
+- **Economic Transition**
+  - **Shift from Industrial to Postindustrial Economy**
+    - **Who:** U.S. industries and policymakers
+    - **What:** A transition from manufacturing-based to service-based economic structures
+    - **When:** 1970s into the 1980s
+    - **Where:** United States, notably in the Rust Belt vs. emerging Sunbelt regions
+    - **Why:** Global competition, technological advances, and changing consumer demands
+    - **Significance:** Led to deindustrialization in many regions, rising unemployment, and a transformation in the American workforce
+  - **Stagflation**
+    - **Who:** The U.S. economy during the 1970s
+    - **What:** A combination of stagnant economic growth and rising inflation
+    - **When:** Mid-1970s
+    - **Where:** United States
+    - **Why:** Due to oil crises, monetary policy challenges, and global economic pressures
+    - **Significance:** Shook public confidence and prompted new economic policies
+  - **Policy Responses**
+    - **Nixon’s New Economic Policy and Ford’s WIN**
+      - **Who:** Presidents Richard Nixon and Gerald Ford
+      - **What:** Attempts to impose wage and price controls and spur economic recovery
+      - **When:** Early to mid-1970s
+      - **Where:** United States
+      - **Why:** To combat inflation and stimulate economic activity during stagflation
+      - **Significance:** Largely unsuccessful, highlighting the limits of government intervention
+
+- **Political Reforms Post-Watergate**
+  - **Watergate Scandal**
+    - **Who:** President Richard Nixon and his aides (e.g., Liddy, Hunt)
+    - **What:** A major political scandal involving illegal wiretapping and cover-ups
+    - **When:** Early 1970s, climaxing in 1974
+    - **Where:** Washington, D.C.
+    - **Why:** Abuse of power and corruption within the Nixon administration
+    - **Significance:** Eroded public trust, led to Nixon’s resignation, and spurred reforms like the War Powers Act and Freedom of Information Act
+  - **“Watergate Babies”**
+    - **Who:** A new generation of Democratic Congress members elected in the wake of Watergate
+    - **What:** Reform-minded legislators who sought to decentralize and reform government power
+    - **When:** Post-1974
+    - **Where:** United States Congress
+    - **Why:** As a reaction against corruption and executive overreach
+    - **Significance:** Helped shift the political landscape toward greater accountability and transparency
+
+- **Social Reforms and Shifts**
+  - **Affirmative Action**
+    - **Who:** Civil rights advocates and U.S. courts
+    - **What:** Policies designed to remedy historical discrimination in education and employment
+    - **When:** Gained prominence in the 1970s following cases like Balke v. University of California
+    - **Where:** United States
+    - **Why:** To promote equal opportunity for minorities and women
+    - **Significance:** Remains a contentious but pivotal policy in American higher education and employment
+  - **Women’s Rights and ERA**
+    - **Who:** Feminist leaders (e.g., Betty Friedan, Phyllis Schlafly) and organizations like NOW
+    - **What:** Movements to secure equal rights for women, including the push for the Equal Rights Amendment
+    - **When:** 1970s
+    - **Where:** United States
+    - **Why:** To challenge legal and social gender discrimination
+    - **Significance:** Sparked lasting changes in workplace rights, reproductive rights, and gender equality debates
+  - **Gay Liberation**
+    - **Who:** Early LGBTQ+ activists (e.g., those involved in the Stonewall Riots)
+    - **What:** Movements demanding equal rights and social acceptance for homosexuals
+    - **When:** Late 1960s to early 1970s
+    - **Where:** Major urban centers like New York City
+    - **Why:** To counter decades of discrimination and police harassment
+    - **Significance:** Laid the foundation for the modern LGBTQ+ rights movement
+
+- **Changing Family and Community Dynamics**
+  - **Suburbanization and Housing**
+    - **Who:** Postwar middle-class families, supported by federal programs (FHA, VA)
+    - **What:** Massive growth of suburban communities (e.g., Levittown)
+    - **When:** 1950s–1970s
+    - **Where:** Across the United States, particularly in the Sunbelt and Northeast suburbs
+    - **Why:** Economic prosperity, favorable federal policies, and the GI Bill
+    - **Significance:** Redefined American family life but also contributed to urban decline and racial segregation
+  - **New Immigration Policies**
+    - **Who:** U.S. lawmakers
+    - **What:** Reforms that shifted from strict quotas to more inclusive numerical limits
+    - **When:** Late 1960s to 1970s
+    - **Where:** United States
+    - **Why:** To modernize immigration policy and respond to humanitarian needs (e.g., refugees)
+    - **Significance:** Increased ethnic diversity and reshaped the American cultural landscape
+
+*Overall Summary of Unit 8:*  
+Unit 8 (1945–1980) covers the transformation of the United States from a postwar superpower into a nation facing domestic and international challenges. The Cold War set the stage for a global contest between communism and capitalism, while economic prosperity and the growth of the middle class led to significant cultural and social changes. At the same time, the Civil Rights Movement and liberal reforms dramatically reshaped American society, even as economic limits and political scandals spurred shifts toward conservatism in the later 1970s.
+
+# Unit 9: APUSH Unit 9 Study Guide (1980–Present)
+
+## Chapter 30: Conservative Resurgence
+
+- **Rise of Conservatism**  
+  - **Who:** Modern Republican leaders including Barry Goldwater and Ronald Reagan  
+  - **What:** A political shift toward free-market policies, lower taxes, strong national defense, and family values  
+  - **When:** Late 1970s through the 1980s and beyond  
+  - **Where:** United States  
+  - **Why:** A reaction against the liberal policies of the New Deal/Great Society and economic struggles of the 1970s  
+  - **Significance:** Redefined American political ideology, broke the New Deal coalition, and established the framework for modern conservative policies  
+
+- **Leading Issues**  
+  - **Taxpayer’s Revolt**  
+    - **Who:** Advocated by figures such as Jack Kemp and William Roth  
+    - **What:** Movement for a major tax cut (approximately 30%)  
+    - **When:** Late 1970s to early 1980s  
+    - **Where:** United States  
+    - **Why:** To reduce government revenue demands on individuals and businesses, spurring economic growth  
+    - **Significance:** Paved the way for conservative fiscal policies and influenced later tax legislation  
+  - **Religious Revival**  
+    - **Who:** Prominent televangelists and conservative religious leaders  
+    - **What:** A resurgence of religious influence in politics, emphasizing issues like pro-life stances  
+    - **When:** 1980s onward  
+    - **Where:** United States  
+    - **Why:** To reassert traditional moral values in response to increasing secularism  
+    - **Significance:** Strengthened the alliance between religious groups and the conservative political movement, influencing debates on social issues  
+  - **De-regulation of Business**  
+    - **Who:** Advocacy groups such as the American Enterprise Institute, Cato Institute, and U.S. Chamber of Commerce  
+    - **What:** Efforts to reduce government regulation on business practices, including labor laws and environmental protections  
+    - **When:** 1980s onward  
+    - **Where:** United States  
+    - **Why:** To promote economic growth by freeing businesses from what conservatives viewed as restrictive government intervention  
+    - **Significance:** Led to a more market-driven economy but also spurred debates about corporate power and social inequality
+
+- **Election of 1980**  
+  - **Who:** Ronald Reagan (Republican) versus Jimmy Carter (Democrat)  
+  - **What:** A transformative presidential election that resulted in a landslide win for Reagan  
+  - **When:** 1980  
+  - **Where:** United States  
+  - **Why:** Due to public dissatisfaction with the incumbent administration and a desire for conservative change  
+  - **Significance:** Marked the start of the conservative resurgence and realigned American politics, breaking the longstanding New Deal coalition
+
+- **Reagan Domestic Policies**  
+  - **Who:** President Ronald Reagan and his administration  
+  - **What:** Policies focused on cutting taxes, reducing government spending on social programs, increasing military spending, and appointing conservative judges  
+  - **When:** 1981–1989  
+  - **Where:** United States  
+  - **Why:** To stimulate economic growth, reduce the size of government, and strengthen national defense  
+  - **Significance:** Set the tone for American domestic policy for decades and reshaped the federal judiciary with long-lasting effects
+
+- **Reaganomics**  
+  - **Who:** Economic advisors under Reagan  
+  - **What:** Supply-side economic policies arguing that reduced government spending and lower taxes would boost private investment and economic prosperity  
+  - **When:** 1980s  
+  - **Where:** United States  
+  - **Why:** To invigorate a stagnant economy and encourage business growth  
+  - **Significance:** Sparked controversy over “trickle-down” economics; while credited with economic expansion, critics argue it increased income inequality
+
+- **Economic Recovery Act**  
+  - **Who:** Enacted by Congress during the Reagan administration  
+  - **What:** Legislation that lowered the highest tax bracket to 28%  
+  - **When:** Early 1980s  
+  - **Where:** United States  
+  - **Why:** To further reduce tax burdens on high-income earners and corporations  
+  - **Significance:** Benefited wealthy individuals and businesses, contributing to debates over fairness and wealth disparity
+
+- **Spending Cuts**  
+  - **Who:** Policy makers in the Reagan era  
+  - **What:** Reductions in federal spending on social programs (e.g., food stamps, student loans, mass transportation)  
+  - **When:** 1980s  
+  - **Where:** United States  
+  - **Why:** To reduce the size of government and reallocate funds toward defense and tax cuts  
+  - **Significance:** Led to diminished social safety nets and increased debates over the role of government in providing welfare
+
+- **Deregulation**  
+  - **Who:** Supported by think tanks and policy groups like the American Enterprise Institute  
+  - **What:** Reduction of federal regulations on industries including banking, corporate mergers, and environmental controls  
+  - **When:** 1980s onward  
+  - **Where:** United States  
+  - **Why:** To promote a free-market economy and boost corporate efficiency  
+  - **Significance:** Resulted in a more flexible business environment but also raised concerns about corporate malfeasance and environmental degradation
+
+- **Labor Unions**  
+  - **Who:** U.S. labor unions and their opponents in government and business  
+  - **What:** Policies and practices that weakened labor unions through replacement hiring and dismissals  
+  - **When:** 1980s  
+  - **Where:** United States  
+  - **Why:** As part of a broader conservative agenda to reduce union influence and promote business interests  
+  - **Significance:** Led to a decline in union power and increased income inequality, impacting worker rights and labor negotiations
+
+- **Military Build-up**  
+  - **Who:** Reagan administration and the Department of Defense  
+  - **What:** A significant increase in defense spending to modernize and expand U.S. military capabilities  
+  - **When:** 1980s  
+  - **Where:** United States, with global implications  
+  - **Why:** To counter Soviet military strength and support anti-communist initiatives worldwide  
+  - **Significance:** Played a key role in ending the Cold War but also contributed to massive federal deficits
+
+- **Courts**  
+  - **Who:** Conservative judicial appointees, notably Sandra Day O’Connor  
+  - **What:** The appointment of judges who would shape rulings on issues like affirmative action and abortion  
+  - **When:** 1980s onward  
+  - **Where:** U.S. federal courts  
+  - **Why:** To instill conservative principles in the judicial system  
+  - **Significance:** Influenced landmark legal decisions and altered the balance on key social and political issues
+
+- **Recession of 1982**  
+  - **Who:** The American public and economic policymakers  
+  - **What:** A severe recession marked by high unemployment and economic contraction  
+  - **When:** 1982  
+  - **Where:** United States  
+  - **Why:** Resulting from tight monetary policy and the transitional impacts of Reagan’s economic policies  
+  - **Significance:** Although eventually overcome, the recession deepened the wealth gap and highlighted the costs of aggressive economic reforms
+
+- **Failure of Reaganomics**  
+  - **Who:** Critics including economists and political opponents  
+  - **What:** The accumulation of large federal deficits and a dramatic increase in national debt (from $900 billion to $2.7 trillion)  
+  - **When:** Throughout Reagan’s presidency (1981–1989)  
+  - **Where:** United States  
+  - **Why:** Excessive tax cuts combined with high defense spending led to fiscal imbalances  
+  - **Significance:** Sparked long-lasting debates over fiscal responsibility and the sustainability of supply-side economics
+
+- **Reagan’s Foreign Policy**  
+  - **Renewing the Cold War**  
+    - **Who:** Reagan’s administration  
+    - **What:** Policies to counter Soviet influence, including massive military spending and the Strategic Defense Initiative (SDI)  
+    - **When:** 1980s  
+    - **Where:** Globally, with a focus on Latin America and Europe  
+    - **Why:** To assert American military superiority and combat communism  
+    - **Significance:** Helped pressure the Soviet Union into reform, contributing to the eventual end of the Cold War  
+  - **Latin America**  
+    - **Who:** U.S. policymakers and military forces  
+    - **What:** Support for anti-communist regimes and actions like the invasion of Grenada  
+    - **When:** 1980s  
+    - **Where:** Latin America and the Caribbean  
+    - **Why:** To maintain a sphere of influence and counter Soviet expansion  
+    - **Significance:** Demonstrated the U.S. willingness to use military force to influence regional politics  
+  - **Iran-Contra Affair**  
+    - **Who:** Reagan administration officials (e.g., Oliver North)  
+    - **What:** A covert operation that sold arms to Iran to secure the release of hostages, with proceeds diverted to fund anti-communist rebels (Nicaraguan Contras)  
+    - **When:** Mid-1980s  
+    - **Where:** Internationally, affecting U.S. relations in Latin America and the Middle East  
+    - **Why:** To support U.S. strategic interests despite congressional prohibitions (violating the Boland Amendment)  
+    - **Significance:** Scandalized the nation, temporarily damaged Reagan’s popularity, and raised concerns about executive overreach  
+  - **Middle East**  
+    - **Who:** U.S. military and political leaders  
+    - **What:** Deployment of troops to Lebanon to serve as peacekeepers amid civil conflict and PLO activity  
+    - **When:** 1980s  
+    - **Where:** Lebanon and the broader Middle East  
+    - **Why:** To stabilize a volatile region and protect U.S. interests  
+    - **Significance:** Highlighted America’s global military commitments during the Cold War  
+  - **Improved Relations with the USSR**  
+    - **Who:** President Reagan and Soviet leader Mikhail Gorbachev  
+    - **What:** Diplomatic breakthroughs that led to arms reduction agreements (e.g., INF Treaty) and a thaw in Cold War tensions  
+    - **When:** Late 1980s  
+    - **Where:** United States, USSR, and international diplomatic forums  
+    - **Why:** Mutual recognition of the benefits of reducing nuclear arsenals and easing economic pressures  
+    - **Significance:** Paved the way for the end of the Cold War and redefined U.S.-Soviet relations
+
+- **Election of 1988**  
+  - **Who:** George H.W. Bush (Republican) vs. Michael Dukakis (Democrat)  
+  - **What:** A presidential election in which Bush won despite a Democratic majority in Congress  
+  - **When:** 1988  
+  - **Where:** United States  
+  - **Why:** Bush’s campaign emphasized “no new taxes” and a promise of a “new world order” for peace and democracy  
+  - **Significance:** Set the stage for post-Cold War policies and foreshadowed domestic fiscal challenges
+
+- **End of the Cold War**  
+  - **Who:** Global leaders and movements (e.g., Gorbachev, Polish Solidarity, Tiananmen protesters)  
+  - **What:** The collapse of Soviet influence, symbolized by the fall of the Berlin Wall and the dissolution of the Soviet Union  
+  - **When:** 1990–1991  
+  - **Where:** Europe and globally  
+  - **Why:** Internal reforms (glasnost, perestroika), nationalist movements, and economic pressures undermined the USSR  
+  - **Significance:** Ended decades of bipolar global tension and positioned the United States as the sole superpower
+
+- **START I & II**  
+  - **Who:** U.S. and Russian leadership under President Bush and subsequent administrations  
+  - **What:** Treaties aimed at reducing and limiting nuclear arsenals  
+  - **When:** START I (1991) and START II (negotiated during the 1990s)  
+  - **Where:** United States and Russia  
+  - **Why:** To decrease the nuclear threat and foster greater strategic stability  
+  - **Significance:** Represented landmark agreements in arms control and reduced the risk of nuclear conflict
+
+- **Impacts of the End of the Cold War**  
+  - **Who:** U.S. policymakers and the American public  
+  - **What:** A reexamination of U.S. global military and economic commitments  
+  - **When:** Early 1990s  
+  - **Where:** United States and internationally  
+  - **Why:** With the Soviet threat gone, debates arose about the necessity of extensive global military engagement  
+  - **Significance:** Influenced U.S. foreign policy and led to shifts in defense spending and global strategy
+
+- **Persian Gulf War**  
+  - **Who:** U.S. President George H.W. Bush and an international coalition of UN members  
+  - **What:** A military campaign to expel Iraqi forces from Kuwait following Saddam Hussein’s invasion  
+  - **When:** 1990–1991  
+  - **Where:** Persian Gulf region  
+  - **Why:** To protect regional stability and secure vital oil resources  
+  - **Significance:** Demonstrated U.S. military might in the post-Cold War era and reaffirmed American influence in the Middle East
+
+- **Domestic Problems of Bush**  
+  - **Who:** President George H.W. Bush and his administration  
+  - **What:** A series of challenges including rising taxes and a growing federal deficit  
+  - **When:** Early 1990s  
+  - **Where:** United States  
+  - **Why:** Despite campaign promises, fiscal pressures forced tax increases, undermining conservative credibility  
+  - **Significance:** Contributed to a decline in public support for conservative economic policies and set the stage for the 1992 election
+
+- **Americans with Disabilities Act (ADA)**
+  - **Who:** U.S. Congress and disability rights advocates  
+  - **What:** Legislation prohibiting discrimination against individuals with disabilities in public accommodations, transportation, and employment  
+  - **When:** 1990  
+  - **Where:** United States  
+  - **Why:** To guarantee equal access and opportunities for people with disabilities  
+  - **Significance:** A landmark civil rights law that expanded the scope of equality in American society
+
+- **Election of 1992**  
+  - **Who:** Bill Clinton (Democrat), George H.W. Bush (Republican), and Ross Perot (Independent)  
+  - **What:** A pivotal presidential election focused on economic issues, encapsulated by the phrase “It’s the economy, stupid!”  
+  - **When:** 1992  
+  - **Where:** United States  
+  - **Why:** Public dissatisfaction with the economy and fiscal mismanagement under Bush  
+  - **Significance:** Led to a shift in political power to the Democrats and set a centrist agenda for the 1990s
+
+- **Clinton’s First Term**  
+  - **Healthcare**
+    - **Who:** President Bill Clinton and his administration  
+    - **What:** Efforts to establish universal healthcare coverage  
+    - **When:** Early 1990s  
+    - **Where:** United States  
+    - **Why:** To expand access to healthcare for all Americans  
+    - **Significance:** Although unsuccessful, it laid the groundwork for future healthcare reform debates  
+  - **“Don’t Ask, Don’t Tell”**
+    - **Who:** Clinton administration  
+    - **What:** A military policy prohibiting openly homosexual service members while not inquiring about their orientation  
+    - **When:** Enacted in 1993  
+    - **Where:** U.S. military  
+    - **Why:** A compromise aimed at addressing LGBT rights in the military  
+    - **Significance:** Reflected the contentious nature of social policy during the period until its eventual repeal  
+  - **Family & Medical Leave Act**
+    - **Who:** U.S. Congress and the Clinton administration  
+    - **What:** Legislation providing job-protected, unpaid leave for family and medical reasons  
+    - **When:** 1993  
+    - **Where:** United States  
+    - **Why:** To help workers balance family responsibilities with their employment  
+    - **Significance:** Expanded the social safety net for American workers  
+  - **NAFTA**
+    - **Who:** U.S., Canada, and Mexico  
+    - **What:** A free-trade agreement creating a trilateral trade bloc  
+    - **When:** Signed in 1992, implemented in 1994  
+    - **Where:** North America  
+    - **Why:** To reduce trade barriers, stimulate economic growth, and increase competitiveness  
+    - **Significance:** Transformed North American trade dynamics and set the stage for further globalization
+
+- **Election of 1994**  
+  - **Who:** The U.S. electorate, resulting in Republican gains in Congress  
+  - **What:** A major shift where Republicans took control of Congress  
+  - **When:** 1994  
+  - **Where:** United States  
+  - **Why:** Voter backlash against perceived overreach of “big government” and dissatisfaction with the Clinton agenda  
+  - **Significance:** Marked a shift toward conservative legislative priorities and forced Clinton to adopt centrist policies
+
+- **Election of 1996**  
+  - **Who:** President Bill Clinton and his Democratic coalition versus Republican challengers  
+  - **What:** Clinton’s re-election campaign despite a Republican-controlled Congress  
+  - **When:** 1996  
+  - **Where:** United States  
+  - **Why:** Clinton’s appeal to moderate voters and effective campaign strategies  
+  - **Significance:** Demonstrated the resilience of centrist Democratic policies in a divided political landscape
+
+- **Technology Boom**
+  - **Who:** U.S. tech companies and entrepreneurs  
+  - **What:** A significant economic expansion driven by innovations in the internet, computers, and telecommunications  
+  - **When:** 1990s  
+  - **Where:** United States, especially Silicon Valley and other tech hubs  
+  - **Why:** Advances in technology spurred new industries and transformed the economy  
+  - **Significance:** Led to unprecedented economic growth and fundamentally reshaped American society and global commerce
+
+- **Impeachment of Clinton**
+  - **Who:** President Bill Clinton, the U.S. House of Representatives, and key political figures  
+  - **What:** An impeachment process over charges of lying under oath and obstruction of justice related to an extramarital affair  
+  - **When:** 1998–1999  
+  - **Where:** United States Congress  
+  - **Why:** Political controversy over Clinton’s conduct and questions of presidential accountability  
+  - **Significance:** Deepened partisan divisions and remains a landmark moment in modern American politics
+
+- **Foreign Policy Under Clinton**
+  - **Russia**
+    - **Who:** Clinton administration and Russian leaders (e.g., Boris Yeltsin)  
+    - **What:** Adjustments in U.S. relations with post-Soviet Russia, including NATO expansions  
+    - **When:** 1990s  
+    - **Where:** United States and Russia/Europe  
+    - **Why:** To manage the transition from Cold War dynamics and address emerging conflicts (e.g., in Chechnya)  
+    - **Significance:** Laid the foundation for future U.S.-Russia relations and NATO’s evolving role
+  - **North Korea**
+    - **Who:** U.S. policymakers and North Korean officials  
+    - **What:** The challenge of North Korea’s developing nuclear program  
+    - **When:** 1990s  
+    - **Where:** Korean Peninsula  
+    - **Why:** To deter nuclear proliferation and secure regional stability  
+    - **Significance:** Remains a critical and unresolved issue in U.S. foreign policy
+  - **Globalization**
+    - **Who:** International organizations (e.g., WTO) and leading global economies  
+    - **What:** A surge in international trade, communication, and capital movement  
+    - **When:** 1990s onward  
+    - **Where:** Worldwide  
+    - **Why:** Driven by technological advances and liberalization policies  
+    - **Significance:** Reshaped the global economy, spurred economic growth, and increased income disparities
+
+- **American Society in 2000**
+  - **Immigration**
+    - **Who:** Immigrants primarily from Hispanic and Asian countries  
+    - **What:** New policies (e.g., Immigration Reform and Control Act) and changing demographics  
+    - **When:** 1990s to early 2000s  
+    - **Where:** United States  
+    - **Why:** To create a fair process for immigration amid growing demand for labor and family reunification  
+    - **Significance:** Transformed the cultural and demographic landscape of modern America
+  - **Family**
+    - **Who:** American families, particularly low-income and single-parent households  
+    - **What:** Increasing strains on Social Security and support systems  
+    - **When:** 1990s onward  
+    - **Where:** United States  
+    - **Why:** Due to an aging population and rising poverty among single-parent families  
+    - **Significance:** Raised long-term concerns about economic inequality and the sustainability of social programs
+  - **Wealth**
+    - **Who:** The wealthy elite versus the general American population  
+    - **What:** Growing income and wealth inequality; top 5% owning half of all wealth  
+    - **When:** Late 20th century to early 21st century  
+    - **Where:** United States  
+    - **Why:** Influenced by tax policies, deregulation, and global economic trends  
+    - **Significance:** Continues to fuel debates about economic justice and is a major factor in political polarization
+
+*Summary of Unit 9 (1980–Present):*  
+Unit 9 covers the dramatic transformation of American politics and society from the conservative resurgence of the 1980s to the present. Key events include the election of Reagan and the implementation of Reaganomics, which redefined economic and domestic policy; the end of the Cold War and subsequent shifts in foreign policy under Presidents Bush and Clinton; and major legislative and social changes addressing immigration, wealth inequality, and the evolving role of government. This era has seen significant shifts in political ideology, economic policy, and societal norms that continue to shape contemporary America.
